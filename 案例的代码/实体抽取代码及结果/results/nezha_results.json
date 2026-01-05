@@ -1,0 +1,98 @@
+{
+  "characters": [
+    "哪吒",
+    "李靖",
+    "殷夫人",
+    "太乙真人",
+    "敖丙",
+    "申公豹",
+    "元始天尊",
+    "纣王",
+    "姬发",
+    "姜子牙",
+    "孙悟空",
+    "龙王",
+    "无量仙翁",
+    "石矶娘娘",
+    "伯邑考",
+    "周文王",
+    "杨戬",
+    "妲己"
+  ],
+  "works": [
+    "封神演义",
+    "西游记",
+    "哪吒闹海",
+    "哪吒之魔童降世",
+    "哪吒之魔童闹海",
+    "哪吒传奇",
+    "大闹天宫"
+  ],
+  "relations": [
+    {
+      "subject": "哪吒",
+      "relation": "父亲",
+      "object": "李靖"
+    },
+    {
+      "subject": "哪吒",
+      "relation": "母亲",
+      "object": "殷夫人"
+    },
+    {
+      "subject": "哪吒",
+      "relation": "师父",
+      "object": "太乙真人"
+    },
+    {
+      "subject": "哪吒",
+      "relation": "朋友",
+      "object": "敖丙"
+    },
+    {
+      "subject": "哪吒",
+      "relation": "敌人",
+      "object": "龙王"
+    },
+    {
+      "subject": "哪吒",
+      "relation": "敌人",
+      "object": "申公豹"
+    },
+    {
+      "subject": "哪吒",
+      "relation": "出现在",
+      "object": "封神演义"
+    },
+    {
+      "subject": "哪吒",
+      "relation": "出现在",
+      "object": "西游记"
+    },
+    {
+      "subject": "哪吒",
+      "relation": "出现在",
+      "object": "哪吒闹海"
+    },
+    {
+      "subject": "哪吒",
+      "relation": "出现在",
+      "object": "哪吒之魔童降世"
+    },
+    {
+      "subject": "哪吒",
+      "relation": "出现在",
+      "object": "哪吒之魔童闹海"
+    },
+    {
+      "subject": "哪吒",
+      "relation": "出现在",
+      "object": "哪吒传奇"
+    },
+    {
+      "subject": "哪吒",
+      "relation": "出现在",
+      "object": "大闹天宫"
+    }
+  ]
+}

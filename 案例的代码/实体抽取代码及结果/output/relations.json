@@ -1,0 +1,37 @@
+[
+  {
+    "subject": "哪吒",
+    "predicate": "父亲",
+    "object": "李靖"
+  },
+  {
+    "subject": "哪吒",
+    "predicate": "师父",
+    "object": "太乙真人"
+  },
+  {
+    "subject": "吴承恩",
+    "predicate": "创作",
+    "object": "《西游记》"
+  },
+  {
+    "subject": "许仲琳",
+    "predicate": "创作",
+    "object": "《封神演义》"
+  },
+  {
+    "subject": "饺子",
+    "predicate": "导演",
+    "object": "《哪吒之魔童降世》"
+  },
+  {
+    "subject": "哪吒",
+    "predicate": "出现于",
+    "object": "《封神演义》"
+  },
+  {
+    "subject": "《哪吒之魔童降世》",
+    "predicate": "改编自",
+    "object": "《封神演义》"
+  }
+]

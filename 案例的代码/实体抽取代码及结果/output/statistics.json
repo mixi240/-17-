@@ -1,0 +1,22 @@
+{
+  "total_entities": 42,
+  "entity_types": {
+    "神话人物": 10,
+    "概念": 9,
+    "作品": 6,
+    "创作者": 4,
+    "时间": 8,
+    "学者": 5
+  },
+  "total_relations": 7,
+  "relation_types": {
+    "父亲": 1,
+    "师父": 1,
+    "创作": 2,
+    "导演": 1,
+    "出现于": 1,
+    "改编自": 1
+  },
+  "total_triples": 49,
+  "nezha_triples": 9
+}

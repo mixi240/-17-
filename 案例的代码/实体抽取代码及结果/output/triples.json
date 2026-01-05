@@ -1,0 +1,296 @@
+[
+  {
+    "subject": "哪吒",
+    "predicate": "父亲",
+    "object": "李靖",
+    "type": "relation"
+  },
+  {
+    "subject": "哪吒",
+    "predicate": "师父",
+    "object": "太乙真人",
+    "type": "relation"
+  },
+  {
+    "subject": "吴承恩",
+    "predicate": "创作",
+    "object": "《西游记》",
+    "type": "relation"
+  },
+  {
+    "subject": "许仲琳",
+    "predicate": "创作",
+    "object": "《封神演义》",
+    "type": "relation"
+  },
+  {
+    "subject": "饺子",
+    "predicate": "导演",
+    "object": "《哪吒之魔童降世》",
+    "type": "relation"
+  },
+  {
+    "subject": "哪吒",
+    "predicate": "出现于",
+    "object": "《封神演义》",
+    "type": "relation"
+  },
+  {
+    "subject": "《哪吒之魔童降世》",
+    "predicate": "改编自",
+    "object": "《封神演义》",
+    "type": "relation"
+  },
+  {
+    "subject": "哪吒",
+    "predicate": "类型",
+    "object": "神话人物",
+    "type": "entity_type"
+  },
+  {
+    "subject": "李靖",
+    "predicate": "类型",
+    "object": "神话人物",
+    "type": "entity_type"
+  },
+  {
+    "subject": "敖丙",
+    "predicate": "类型",
+    "object": "神话人物",
+    "type": "entity_type"
+  },
+  {
+    "subject": "申公豹",
+    "predicate": "类型",
+    "object": "神话人物",
+    "type": "entity_type"
+  },
+  {
+    "subject": "魔丸",
+    "predicate": "类型",
+    "object": "概念",
+    "type": "entity_type"
+  },
+  {
+    "subject": "《哪吒之魔童闹海》",
+    "predicate": "类型",
+    "object": "作品",
+    "type": "entity_type"
+  },
+  {
+    "subject": "龙王",
+    "predicate": "类型",
+    "object": "神话人物",
+    "type": "entity_type"
+  },
+  {
+    "subject": "神化",
+    "predicate": "类型",
+    "object": "概念",
+    "type": "entity_type"
+  },
+  {
+    "subject": "《封神演义》",
+    "predicate": "类型",
+    "object": "作品",
+    "type": "entity_type"
+  },
+  {
+    "subject": "太乙真人",
+    "predicate": "类型",
+    "object": "神话人物",
+    "type": "entity_type"
+  },
+  {
+    "subject": "人化",
+    "predicate": "类型",
+    "object": "概念",
+    "type": "entity_type"
+  },
+  {
+    "subject": "灵珠",
+    "predicate": "类型",
+    "object": "概念",
+    "type": "entity_type"
+  },
+  {
+    "subject": "乌尔善",
+    "predicate": "类型",
+    "object": "创作者",
+    "type": "entity_type"
+  },
+  {
+    "subject": "《哪吒闹海》",
+    "predicate": "类型",
+    "object": "作品",
+    "type": "entity_type"
+  },
+  {
+    "subject": "2025年",
+    "predicate": "类型",
+    "object": "时间",
+    "type": "entity_type"
+  },
+  {
+    "subject": "殷夫人",
+    "predicate": "类型",
+    "object": "神话人物",
+    "type": "entity_type"
+  },
+  {
+    "subject": "风火轮",
+    "predicate": "类型",
+    "object": "概念",
+    "type": "entity_type"
+  },
+  {
+    "subject": "《西游记》",
+    "predicate": "类型",
+    "object": "作品",
+    "type": "entity_type"
+  },
+  {
+    "subject": "乾坤圈",
+    "predicate": "类型",
+    "object": "概念",
+    "type": "entity_type"
+  },
+  {
+    "subject": "我命由我不由天",
+    "predicate": "类型",
+    "object": "概念",
+    "type": "entity_type"
+  },
+  {
+    "subject": "《哪吒之魔童降世》",
+    "predicate": "类型",
+    "object": "作品",
+    "type": "entity_type"
+  },
+  {
+    "subject": "明代",
+    "predicate": "类型",
+    "object": "时间",
+    "type": "entity_type"
+  },
+  {
+    "subject": "无量仙翁",
+    "predicate": "类型",
+    "object": "神话人物",
+    "type": "entity_type"
+  },
+  {
+    "subject": "《大闹天宫》",
+    "predicate": "类型",
+    "object": "作品",
+    "type": "entity_type"
+  },
+  {
+    "subject": "饺子",
+    "predicate": "类型",
+    "object": "创作者",
+    "type": "entity_type"
+  },
+  {
+    "subject": "李妙然",
+    "predicate": "类型",
+    "object": "学者",
+    "type": "entity_type"
+  },
+  {
+    "subject": "许仲琳",
+    "predicate": "类型",
+    "object": "创作者",
+    "type": "entity_type"
+  },
+  {
+    "subject": "混天绫",
+    "predicate": "类型",
+    "object": "概念",
+    "type": "entity_type"
+  },
+  {
+    "subject": "火尖枪",
+    "predicate": "类型",
+    "object": "概念",
+    "type": "entity_type"
+  },
+  {
+    "subject": "玉皇大帝",
+    "predicate": "类型",
+    "object": "神话人物",
+    "type": "entity_type"
+  },
+  {
+    "subject": "吴承恩",
+    "predicate": "类型",
+    "object": "创作者",
+    "type": "entity_type"
+  },
+  {
+    "subject": "焦杰",
+    "predicate": "类型",
+    "object": "学者",
+    "type": "entity_type"
+  },
+  {
+    "subject": "1979年",
+    "predicate": "类型",
+    "object": "时间",
+    "type": "entity_type"
+  },
+  {
+    "subject": "2019年",
+    "predicate": "类型",
+    "object": "时间",
+    "type": "entity_type"
+  },
+  {
+    "subject": "唐代",
+    "predicate": "类型",
+    "object": "时间",
+    "type": "entity_type"
+  },
+  {
+    "subject": "元代",
+    "predicate": "类型",
+    "object": "时间",
+    "type": "entity_type"
+  },
+  {
+    "subject": "东海龙王",
+    "predicate": "类型",
+    "object": "神话人物",
+    "type": "entity_type"
+  },
+  {
+    "subject": "程国赋",
+    "predicate": "类型",
+    "object": "学者",
+    "type": "entity_type"
+  },
+  {
+    "subject": "1961年",
+    "predicate": "类型",
+    "object": "时间",
+    "type": "entity_type"
+  },
+  {
+    "subject": "付方彦",
+    "predicate": "类型",
+    "object": "学者",
+    "type": "entity_type"
+  },
+  {
+    "subject": "宋代",
+    "predicate": "类型",
+    "object": "时间",
+    "type": "entity_type"
+  },
+  {
+    "subject": "张茗",
+    "predicate": "类型",
+    "object": "学者",
+    "type": "entity_type"
+  }
+]
