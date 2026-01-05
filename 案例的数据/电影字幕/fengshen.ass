@@ -1,0 +1,1433 @@
+﻿[Script Info]
+;LB@坚持鍀信念
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,黑体,18,&HFFFFFF,&HFFFFFF,&H000000,&H000000,1,0,1,2,3,2,20,20,2,0,134
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:01:41.96,0:01:43.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}太古之时
+Dialogue: 0,0:01:44.09,0:01:45.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}一片混沌
+Dialogue: 0,0:01:46.88,0:01:48.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}盘古开天辟地
+Dialogue: 0,0:01:48.71,0:01:51.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}身体化为了日月山川
+Dialogue: 0,0:01:52.30,0:01:54.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}世界因此造就
+Dialogue: 0,0:01:56.71,0:01:58.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}女娲抟土造人
+Dialogue: 0,0:01:58.75,0:02:01.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}以元气赐予了泥人生命
+Dialogue: 0,0:02:02.00,0:02:04.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}人类由此诞生
+Dialogue: 0,0:02:07.30,0:02:10.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}女娲离世前留下了一件宝物
+Dialogue: 0,0:02:10.50,0:02:13.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}叫做封神榜
+Dialogue: 0,0:02:14.30,0:02:17.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}交由昆仑仙人守护
+Dialogue: 0,0:02:17.13,0:02:19.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}此物有回天之力
+Dialogue: 0,0:02:19.92,0:02:24.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}唯有天下共主方可开启
+Dialogue: 0,0:02:26.46,0:02:28.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}人间世代更替
+Dialogue: 0,0:02:28.71,0:02:30.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}成汤建立殷商
+Dialogue: 0,0:02:31.34,0:02:34.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}东 西 南 北四大伯侯
+Dialogue: 0,0:02:34.09,0:02:36.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}率领八百小诸侯
+Dialogue: 0,0:02:36.30,0:02:39.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}共奉商王为天下共主
+Dialogue: 0,0:02:40.00,0:02:41.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}北崇 西岐 殷商 东鲁 南鄂
+Dialogue: 0,0:02:41.30,0:02:42.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}500年后
+Dialogue: 0,0:02:42.71,0:02:45.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殷商王位传至帝乙
+Dialogue: 0,0:02:46.09,0:02:49.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}冀州侯苏护却拒不纳贡
+Dialogue: 0,0:02:50.34,0:02:53.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}扬言永不朝商
+Dialogue: 0,0:02:53.80,0:02:57.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殷商遣兵征讨 久攻不下
+Dialogue: 0,0:02:57.46,0:03:01.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}于是帝乙派二王子殷寿亲征
+Dialogue: 0,0:03:01.59,0:03:02.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}冀州
+Dialogue: 0,0:03:02.55,0:03:05.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殷寿率领了一支
+Dialogue: 0,0:03:05.09,0:03:09.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}由他亲自训练的特殊军队
+Dialogue: 0,0:04:28.17,0:04:32.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殷
+Dialogue: 0,0:04:34.55,0:04:37.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我是西伯侯姬昌之子 姬发
+Dialogue: 0,0:04:38.30,0:04:41.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我身边是我最好的朋友 殷郊
+Dialogue: 0,0:04:44.67,0:04:47.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}他的父亲是我们心目中的英雄
+Dialogue: 0,0:04:50.09,0:04:52.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我想成为他那样的人
+Dialogue: 0,0:05:12.67,0:05:13.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}姓名
+Dialogue: 0,0:05:13.59,0:05:16.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}冀州侯苏护之子 苏全孝
+Dialogue: 0,0:05:16.50,0:05:19.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}对着城头大声说
+Dialogue: 0,0:05:23.96,0:05:26.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}冀州侯苏护之子
+Dialogue: 0,0:05:26.80,0:05:28.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}苏全孝
+Dialogue: 0,0:05:28.50,0:05:29.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}军职
+Dialogue: 0,0:05:30.00,0:05:32.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殷商质子旅北方阵
+Dialogue: 0,0:05:32.46,0:05:34.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}百夫长
+Dialogue: 0,0:05:34.30,0:05:35.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}何为质子
+Dialogue: 0,0:05:36.30,0:05:38.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}东 西 南 北
+Dialogue: 0,0:05:38.30,0:05:42.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}合八百诸侯各遣其子入贡大商
+Dialogue: 0,0:05:42.30,0:05:43.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}是为质子
+Dialogue: 0,0:05:43.75,0:05:46.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}诸侯敢有谋反者
+Dialogue: 0,0:05:46.09,0:05:48.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}先杀其质子
+Dialogue: 0,0:05:48.42,0:05:50.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}然后族灭之
+Dialogue: 0,0:05:50.92,0:05:54.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你的父亲苏护举冀州而反
+Dialogue: 0,0:05:57.80,0:05:59.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你去劝劝他吧
+Dialogue: 0,0:06:14.46,0:06:18.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}父亲 降吧
+Dialogue: 0,0:07:14.75,0:07:16.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我离家八年了
+Dialogue: 0,0:07:17.55,0:07:18.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}长高了
+Dialogue: 0,0:07:20.25,0:07:23.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}父亲他认不出我了
+Dialogue: 0,0:07:24.96,0:07:26.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}那个人不配做你父亲
+Dialogue: 0,0:07:32.05,0:07:33.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你是我的儿子
+Dialogue: 0,0:07:37.17,0:07:40.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你要做我最勇敢的儿子
+Dialogue: 0,0:07:52.42,0:07:53.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}父亲
+Dialogue: 0,0:07:56.21,0:07:57.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我去了
+Dialogue: 0,0:08:20.63,0:08:23.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}冀
+Dialogue: 0,0:08:24.84,0:08:26.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}就在刚才
+Dialogue: 0,0:08:26.80,0:08:28.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}就在你们眼前
+Dialogue: 0,0:08:29.71,0:08:31.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你们的一位兄弟死了
+Dialogue: 0,0:08:32.13,0:08:34.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我的一个儿子死了
+Dialogue: 0,0:08:35.42,0:08:37.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}谁杀了他
+Dialogue: 0,0:08:37.50,0:08:39.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}反贼苏护 反贼苏护
+Dialogue: 0,0:08:39.42,0:08:41.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}是谁杀了他
+Dialogue: 0,0:08:41.25,0:08:43.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}反贼苏护 反贼苏护
+Dialogue: 0,0:08:43.38,0:08:45.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}是谁杀了他
+Dialogue: 0,0:08:45.59,0:08:47.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}反贼苏护 反贼苏护
+Dialogue: 0,0:08:47.55,0:08:49.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}反贼苏护 反贼苏护
+Dialogue: 0,0:08:49.30,0:08:50.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}反贼苏护 反贼苏护
+Dialogue: 0,0:08:51.05,0:08:52.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}放
+Dialogue: 0,0:08:52.55,0:08:53.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}令
+Dialogue: 0,0:09:40.38,0:09:42.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殷商勇士
+Dialogue: 0,0:09:42.17,0:09:44.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}踏平冀州 踏平冀州
+Dialogue: 0,0:09:44.38,0:09:48.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}踏平冀州 踏平冀州
+Dialogue: 0,0:09:52.17,0:09:55.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}杀 杀
+Dialogue: 0,0:09:55.63,0:09:57.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}姬发 来啊
+Dialogue: 0,0:10:00.30,0:10:01.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}小心
+Dialogue: 0,0:10:04.75,0:10:05.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}杀
+Dialogue: 0,0:10:05.67,0:10:07.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}放
+Dialogue: 0,0:10:26.13,0:10:27.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}杀
+Dialogue: 0,0:10:28.17,0:10:30.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}冲进豁口
+Dialogue: 0,0:10:41.50,0:10:43.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}杀 杀
+Dialogue: 0,0:10:54.13,0:10:55.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}让开
+Dialogue: 0,0:11:41.59,0:11:43.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}姬发
+Dialogue: 0,0:11:44.84,0:11:46.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}姬发
+Dialogue: 0,0:11:54.46,0:11:55.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殷郊
+Dialogue: 0,0:11:55.59,0:11:57.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你未战先怯
+Dialogue: 0,0:11:57.21,0:11:59.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}太让我失望了 父亲息怒
+Dialogue: 0,0:11:59.96,0:12:01.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}主帅 不是我们胆怯
+Dialogue: 0,0:12:02.05,0:12:04.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}是马看见火就害怕 不敢前进
+Dialogue: 0,0:12:07.17,0:12:08.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}父亲
+Dialogue: 0,0:12:13.34,0:12:16.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}马看到什么是人决定的
+Dialogue: 0,0:12:21.21,0:12:22.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}快点
+Dialogue: 0,0:12:30.30,0:12:32.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}杀
+Dialogue: 0,0:12:37.21,0:12:40.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}杀 杀
+Dialogue: 0,0:12:41.46,0:12:45.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}杀 杀
+Dialogue: 0,0:12:45.13,0:12:48.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}杀 杀
+Dialogue: 0,0:13:07.50,0:13:08.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}破城后
+Dialogue: 0,0:13:08.71,0:13:10.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我们一路追杀苏护一家
+Dialogue: 0,0:13:10.34,0:13:11.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}到了轩辕坟
+Dialogue: 0,0:13:12.67,0:13:15.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我们发誓要砍了苏护的脑袋
+Dialogue: 0,0:13:15.96,0:13:17.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}为苏全孝报仇
+Dialogue: 0,0:13:20.96,0:13:22.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}哥哥
+Dialogue: 0,0:14:25.13,0:14:26.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}哥哥
+Dialogue: 0,0:14:28.84,0:14:30.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}记住
+Dialogue: 0,0:14:30.17,0:14:33.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}冀州苏氏永不朝商
+Dialogue: 0,0:15:16.34,0:15:17.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}父亲
+Dialogue: 0,0:15:30.09,0:15:31.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}快跑
+Dialogue: 0,0:16:30.92,0:16:31.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}小心
+Dialogue: 0,0:17:03.96,0:17:05.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}是个女人
+Dialogue: 0,0:17:08.17,0:17:09.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}她是谁
+Dialogue: 0,0:17:09.92,0:17:11.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}她就是苏护的女儿
+Dialogue: 0,0:17:12.13,0:17:13.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}苏妲己
+Dialogue: 0,0:17:15.21,0:17:16.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}叛臣之女
+Dialogue: 0,0:17:17.34,0:17:19.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}罪当处死
+Dialogue: 0,0:17:20.42,0:17:21.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}姬发
+Dialogue: 0,0:17:22.63,0:17:23.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}杀了她
+Dialogue: 0,0:17:25.42,0:17:26.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}杀女人
+Dialogue: 0,0:17:28.42,0:17:29.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我下不去手
+Dialogue: 0,0:17:30.96,0:17:31.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}姜文焕
+Dialogue: 0,0:17:32.50,0:17:34.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你去 鄂顺
+Dialogue: 0,0:17:34.55,0:17:35.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你去
+Dialogue: 0,0:17:35.63,0:17:36.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你怎么不动手
+Dialogue: 0,0:17:46.05,0:17:47.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我的簪子呢
+Dialogue: 0,0:17:54.21,0:17:55.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}姬发 姬发
+Dialogue: 0,0:18:15.50,0:18:17.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}这样的女人
+Dialogue: 0,0:18:18.00,0:18:19.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}杀了太可惜
+Dialogue: 0,0:18:20.17,0:18:21.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}不如献给主帅
+Dialogue: 0,0:18:22.30,0:18:23.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}一群废物
+Dialogue: 0,0:18:24.38,0:18:25.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我来
+Dialogue: 0,0:18:25.30,0:18:26.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殷郊 殷郊
+Dialogue: 0,0:18:34.17,0:18:35.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}主帅
+Dialogue: 0,0:18:36.13,0:18:37.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}主帅 主帅
+Dialogue: 0,0:18:52.71,0:18:53.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}来
+Dialogue: 0,0:18:53.67,0:18:54.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}咱们这杯酒 来
+Dialogue: 0,0:18:54.96,0:18:57.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}来 干了 敬我们殷商勇士
+Dialogue: 0,0:18:57.09,0:18:58.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}来 来
+Dialogue: 0,0:18:58.59,0:19:00.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}来 来 喝
+Dialogue: 0,0:19:00.25,0:19:01.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我这杯酒
+Dialogue: 0,0:19:02.34,0:19:03.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}敬我们的兄弟
+Dialogue: 0,0:19:04.38,0:19:05.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}苏全孝 来
+Dialogue: 0,0:19:05.63,0:19:07.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}来 敬他 敬他
+Dialogue: 0,0:19:07.96,0:19:10.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}苏全孝是反贼苏护之子 敬他
+Dialogue: 0,0:19:11.09,0:19:12.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}他没有资格做我们的兄弟
+Dialogue: 0,0:19:12.92,0:19:15.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}父是父 子是子
+Dialogue: 0,0:19:16.25,0:19:17.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}苏护虽反
+Dialogue: 0,0:19:17.71,0:19:19.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}可苏全孝不曾反
+Dialogue: 0,0:19:19.50,0:19:21.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}有其父必有其子 对
+Dialogue: 0,0:19:22.00,0:19:23.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你父亲西伯侯姬昌
+Dialogue: 0,0:19:24.46,0:19:26.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}只会耕田种地
+Dialogue: 0,0:19:26.42,0:19:28.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你姬发穿上铠甲
+Dialogue: 0,0:19:28.50,0:19:30.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}也不过就是个西岐农夫
+Dialogue: 0,0:19:31.50,0:19:33.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}一身的大粪味
+Dialogue: 0,0:19:33.42,0:19:35.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}大粪味 你
+Dialogue: 0,0:19:35.21,0:19:36.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}来 喝酒 来 喝酒
+Dialogue: 0,0:19:37.05,0:19:39.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你父亲北伯侯崇侯虎
+Dialogue: 0,0:19:39.80,0:19:43.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}整天就知道屠狼捉狗
+Dialogue: 0,0:19:44.67,0:19:46.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你穿上铠甲
+Dialogue: 0,0:19:46.50,0:19:49.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}顶多就算个猎户
+Dialogue: 0,0:19:49.50,0:19:50.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}一身的什么味儿
+Dialogue: 0,0:19:50.75,0:19:53.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}什么味啊 什么味
+Dialogue: 0,0:19:53.13,0:19:54.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}禽兽味
+Dialogue: 0,0:21:02.17,0:21:04.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我知道你想要什么
+Dialogue: 0,0:21:21.25,0:21:22.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你要的是
+Dialogue: 0,0:21:23.96,0:21:30.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}成为全天下的王
+Dialogue: 0,0:21:42.38,0:21:45.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你知道叛臣之女的下场是什么吗
+Dialogue: 0,0:21:48.50,0:21:51.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}天亮就要杀了你祭旗
+Dialogue: 0,0:21:54.71,0:21:56.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我和别人不一样
+Dialogue: 0,0:21:58.25,0:21:59.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我能帮你
+Dialogue: 0,0:22:36.17,0:22:38.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}在朝歌做了八年质子
+Dialogue: 0,0:22:39.30,0:22:40.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}今天
+Dialogue: 0,0:22:40.75,0:22:43.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我终于可以像英雄一样回到这里
+Dialogue: 0,0:22:43.92,0:22:47.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}聆听来自整座城市的欢呼声
+Dialogue: 0,0:23:09.67,0:23:12.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}商
+Dialogue: 0,0:23:33.34,0:23:36.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}臣殷寿参见父王和王兄
+Dialogue: 0,0:23:45.46,0:23:48.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}苏护首级献父王
+Dialogue: 0,0:23:58.55,0:24:01.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}冀州帅旗献王兄
+Dialogue: 0,0:24:09.05,0:24:10.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}苏护
+Dialogue: 0,0:24:11.38,0:24:14.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你曾狂言不再朝商
+Dialogue: 0,0:24:15.38,0:24:18.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你今天怎么来朝了 明日庆功宴
+Dialogue: 0,0:24:18.25,0:24:20.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}以此头为酒器
+Dialogue: 0,0:24:20.17,0:24:22.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}达旦痛饮
+Dialogue: 0,0:24:23.05,0:24:27.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}天下共主 万世殷商 天下共主 万世殷商
+Dialogue: 0,0:24:27.25,0:24:30.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}天下共主 万世殷商 天下共主 万世殷商
+Dialogue: 0,0:24:31.42,0:24:34.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殷商质子旅凯旋
+Dialogue: 0,0:24:34.34,0:24:37.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}特为大王献战舞助兴
+Dialogue: 0,0:24:42.71,0:24:43.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}杀
+Dialogue: 0,0:24:49.88,0:24:52.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}父王万寿
+Dialogue: 0,0:25:08.13,0:25:09.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}启儿
+Dialogue: 0,0:25:09.92,0:25:13.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}启儿为我舞剑助兴
+Dialogue: 0,0:25:13.42,0:25:16.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}好
+Dialogue: 0,0:25:59.59,0:26:00.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}围上
+Dialogue: 0,0:26:02.67,0:26:03.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}防御
+Dialogue: 0,0:26:45.71,0:26:46.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殿下
+Dialogue: 0,0:26:52.21,0:26:53.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}死了
+Dialogue: 0,0:26:53.21,0:26:54.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}死了 死了
+Dialogue: 0,0:26:55.50,0:26:56.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}姬发
+Dialogue: 0,0:26:57.42,0:26:59.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你杀死了大商王子
+Dialogue: 0,0:26:59.38,0:27:01.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}这可是灭族的大罪
+Dialogue: 0,0:27:02.38,0:27:03.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}姬发
+Dialogue: 0,0:27:04.92,0:27:07.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}杀死王子 有悖朝纲
+Dialogue: 0,0:27:07.46,0:27:09.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}不可恕 必诛之
+Dialogue: 0,0:27:09.13,0:27:11.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}这可是大罪啊
+Dialogue: 0,0:27:11.96,0:27:13.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}这
+Dialogue: 0,0:27:17.88,0:27:18.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}父亲
+Dialogue: 0,0:27:40.84,0:27:44.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殷启弑父杀君 大逆不道
+Dialogue: 0,0:27:48.21,0:27:49.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}姬发
+Dialogue: 0,0:27:54.55,0:27:57.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你杀了他非但无罪
+Dialogue: 0,0:27:57.92,0:28:01.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}反而为我大商立下大功
+Dialogue: 0,0:28:38.80,0:28:40.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}要不是殷郊替我求情
+Dialogue: 0,0:28:40.88,0:28:42.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}主帅明辨是非
+Dialogue: 0,0:28:42.80,0:28:45.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我恐怕难逃灭族之罪
+Dialogue: 0,0:28:46.00,0:28:47.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}现在先王已死
+Dialogue: 0,0:28:48.00,0:28:50.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}大商的命运将会怎样呢
+Dialogue: 0,0:29:12.80,0:29:15.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}天尊召我们12弟子前来玉虚宫
+Dialogue: 0,0:29:15.46,0:29:16.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}结阵冥想
+Dialogue: 0,0:29:17.13,0:29:18.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}原来是为了此事
+Dialogue: 0,0:29:19.42,0:29:20.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}如此凄惨
+Dialogue: 0,0:29:21.00,0:29:23.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}难道这就是未来的人间
+Dialogue: 0,0:29:24.80,0:29:26.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}这是天谴啊 师尊
+Dialogue: 0,0:29:27.25,0:29:29.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}世人何辜要遭此浩劫
+Dialogue: 0,0:29:30.00,0:29:31.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}人间战乱不止
+Dialogue: 0,0:29:31.84,0:29:33.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}妖兽出没
+Dialogue: 0,0:29:33.67,0:29:36.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}自然难逃此劫
+Dialogue: 0,0:29:37.00,0:29:40.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}当初盘古劈开混沌
+Dialogue: 0,0:29:40.67,0:29:42.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}清气上升为天
+Dialogue: 0,0:29:42.63,0:29:44.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}浊气下沉为地
+Dialogue: 0,0:29:44.71,0:29:46.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}天地即成
+Dialogue: 0,0:29:46.30,0:29:47.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}万物滋生
+Dialogue: 0,0:29:49.00,0:29:50.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}劫难一旦降临
+Dialogue: 0,0:29:50.71,0:29:52.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}将反其道而行
+Dialogue: 0,0:29:53.05,0:29:55.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}世间重归混沌
+Dialogue: 0,0:29:55.80,0:29:58.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}不再有任何生灵
+Dialogue: 0,0:29:58.09,0:30:00.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}虽然世人自取其咎
+Dialogue: 0,0:30:01.17,0:30:04.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我们终不能见死不救
+Dialogue: 0,0:30:05.21,0:30:07.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}女娲娘娘留下封神榜
+Dialogue: 0,0:30:07.25,0:30:09.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}交由我们昆仑守护
+Dialogue: 0,0:30:09.13,0:30:12.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}正是预见到人间早晚会有这么一天
+Dialogue: 0,0:30:12.67,0:30:16.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}看来封神榜下山的时候到了
+Dialogue: 0,0:30:16.84,0:30:19.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}只要把封神榜送到人间
+Dialogue: 0,0:30:19.42,0:30:21.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}交给天下共主
+Dialogue: 0,0:30:21.34,0:30:23.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}由他来开榜封神
+Dialogue: 0,0:30:23.55,0:30:25.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}便能消除天谴
+Dialogue: 0,0:30:25.42,0:30:27.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}拯救众生
+Dialogue: 0,0:30:27.42,0:30:29.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}这持榜下山的代价
+Dialogue: 0,0:30:29.59,0:30:32.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}想必众师兄都已了然
+Dialogue: 0,0:30:32.71,0:30:34.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}师尊 弟子愿往
+Dialogue: 0,0:30:35.21,0:30:37.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}这次得我去
+Dialogue: 0,0:30:37.42,0:30:38.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}还是我去
+Dialogue: 0,0:30:39.00,0:30:40.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}应该我去
+Dialogue: 0,0:30:41.34,0:30:43.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}此事不可丝毫有失
+Dialogue: 0,0:30:43.92,0:30:46.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}谁是最合适的持榜人
+Dialogue: 0,0:30:46.21,0:30:48.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}何不交由师尊决定
+Dialogue: 0,0:31:27.09,0:31:28.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}人间有难
+Dialogue: 0,0:31:28.25,0:31:30.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}弟子愿持封神榜下山
+Dialogue: 0,0:31:31.63,0:31:32.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}子牙
+Dialogue: 0,0:31:33.21,0:31:34.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你可知道
+Dialogue: 0,0:31:35.05,0:31:38.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}修仙者一旦触碰到封神榜
+Dialogue: 0,0:31:38.13,0:31:39.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}就会法力尽失
+Dialogue: 0,0:31:39.80,0:31:41.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}变回凡人
+Dialogue: 0,0:31:41.67,0:31:44.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}再也不能重返昆仑
+Dialogue: 0,0:31:46.75,0:31:49.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}所以更应该我去啊
+Dialogue: 0,0:31:49.71,0:31:51.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}是何道理
+Dialogue: 0,0:31:52.34,0:31:53.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}说来一听
+Dialogue: 0,0:31:54.17,0:31:57.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}诸位师兄修仙皆在千年以上
+Dialogue: 0,0:31:57.42,0:31:58.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}方有今日造化
+Dialogue: 0,0:31:59.59,0:32:01.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}万不可轻易毁去
+Dialogue: 0,0:32:01.92,0:32:04.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我学仙不过40余载
+Dialogue: 0,0:32:04.09,0:32:05.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}法力微末
+Dialogue: 0,0:32:05.17,0:32:07.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}弃之不足为惜
+Dialogue: 0,0:32:07.13,0:32:08.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}且在我学仙之前
+Dialogue: 0,0:32:08.84,0:32:10.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}本为商贩
+Dialogue: 0,0:32:10.17,0:32:11.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}四处奔波
+Dialogue: 0,0:32:11.42,0:32:13.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}对人间最为熟悉
+Dialogue: 0,0:32:14.84,0:32:16.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}弟子不才
+Dialogue: 0,0:32:16.55,0:32:18.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}愿担此任
+Dialogue: 0,0:32:18.17,0:32:19.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}子牙
+Dialogue: 0,0:32:19.80,0:32:21.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你修炼未久
+Dialogue: 0,0:32:21.46,0:32:22.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}法力太低
+Dialogue: 0,0:32:23.00,0:32:25.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}不能窥见天机
+Dialogue: 0,0:32:25.09,0:32:27.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}所以我不曾召你前来
+Dialogue: 0,0:32:27.59,0:32:30.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你却因一颗对人间的悲悯之心
+Dialogue: 0,0:32:30.59,0:32:32.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}擅自闯入
+Dialogue: 0,0:32:32.17,0:32:34.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}竟破了天谴之象
+Dialogue: 0,0:32:35.63,0:32:40.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}莫非这便是冥冥之中的天意
+Dialogue: 0,0:33:15.96,0:33:17.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}姜子牙
+Dialogue: 0,0:33:17.75,0:33:19.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你真的愿意放弃
+Dialogue: 0,0:33:19.30,0:33:22.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}40年修得的法术和长生
+Dialogue: 0,0:33:22.25,0:33:24.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}变回一个凡人吗
+Dialogue: 0,0:34:12.46,0:34:19.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}天命玄鸟 天命玄鸟
+Dialogue: 0,0:34:20.17,0:34:23.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}降而生商 降而生商
+Dialogue: 0,0:34:24.00,0:34:27.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}降而生商 降而生商
+Dialogue: 0,0:34:28.46,0:34:30.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}祖宗在上
+Dialogue: 0,0:34:30.59,0:34:34.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}小子殷寿从无称王之心
+Dialogue: 0,0:34:34.42,0:34:37.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}只是国不可一日无主
+Dialogue: 0,0:34:37.71,0:34:40.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我乃先王仅存子嗣
+Dialogue: 0,0:34:40.96,0:34:43.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}不敢不继承王位
+Dialogue: 0,0:34:43.09,0:34:45.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}延续殷商命脉
+Dialogue: 0,0:34:46.05,0:34:50.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}有劳王叔敬问国运
+Dialogue: 0,0:35:57.67,0:35:59.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}天弃我大商
+Dialogue: 0,0:35:59.09,0:36:00.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}天弃我大商
+Dialogue: 0,0:36:01.05,0:36:02.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}天弃我大商
+Dialogue: 0,0:36:04.71,0:36:06.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}天弃我大商
+Dialogue: 0,0:36:07.46,0:36:09.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}天弃我大商
+Dialogue: 0,0:36:11.25,0:36:13.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}天弃我大商
+Dialogue: 0,0:36:22.46,0:36:23.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}王叔何出此言
+Dialogue: 0,0:36:23.88,0:36:26.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我以大商国运问天
+Dialogue: 0,0:36:26.25,0:36:29.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}天碎龟甲 以此作答
+Dialogue: 0,0:36:29.30,0:36:31.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}大商何罪致此天谴
+Dialogue: 0,0:36:31.46,0:36:33.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殷商王族
+Dialogue: 0,0:36:33.42,0:36:36.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}以子弑父 以臣弑君
+Dialogue: 0,0:36:36.59,0:36:40.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}世间之罪莫大乎此
+Dialogue: 0,0:36:40.30,0:36:43.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}故此上天震怒
+Dialogue: 0,0:36:44.34,0:36:48.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我们成汤子孙已经不配为天下共主了
+Dialogue: 0,0:36:49.67,0:36:52.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}本王献100人牲祭天
+Dialogue: 0,0:36:52.30,0:36:53.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}以息天怒
+Dialogue: 0,0:36:53.96,0:36:55.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}难
+Dialogue: 0,0:36:55.21,0:36:56.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}一千人牲
+Dialogue: 0,0:36:56.50,0:37:00.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}一万人牲也无济于事
+Dialogue: 0,0:37:00.30,0:37:01.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}当年
+Dialogue: 0,0:37:01.88,0:37:06.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}成汤先祖统一天下之时
+Dialogue: 0,0:37:06.21,0:37:08.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}杀伐太重
+Dialogue: 0,0:37:08.09,0:37:10.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}招致天谴
+Dialogue: 0,0:37:10.09,0:37:13.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}天下大旱七年
+Dialogue: 0,0:37:13.92,0:37:16.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}大地寸草不生
+Dialogue: 0,0:37:17.50,0:37:21.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}成汤先祖筑台祭天
+Dialogue: 0,0:37:22.00,0:37:23.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}自焚其身
+Dialogue: 0,0:37:23.25,0:37:25.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}终于感动了上天
+Dialogue: 0,0:37:26.05,0:37:28.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}降下甘霖
+Dialogue: 0,0:37:28.09,0:37:32.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}王叔莫非想让我效法成汤先祖
+Dialogue: 0,0:37:32.96,0:37:34.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}叔祖是何居心
+Dialogue: 0,0:37:41.88,0:37:43.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}父王刚刚登基
+Dialogue: 0,0:37:43.46,0:37:45.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你就想逼他自焚献祭
+Dialogue: 0,0:37:45.59,0:37:47.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}大逆不道 行同谋反
+Dialogue: 0,0:37:47.67,0:37:48.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}可杀
+Dialogue: 0,0:37:48.59,0:37:49.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}放肆
+Dialogue: 0,0:37:50.05,0:37:52.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}天谴才刚刚开始
+Dialogue: 0,0:37:52.21,0:37:53.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}用不了多久
+Dialogue: 0,0:37:53.96,0:37:56.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}百姓便将深陷水火
+Dialogue: 0,0:37:56.30,0:37:57.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}祖宗不得血食
+Dialogue: 0,0:37:57.92,0:37:59.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}到那个时候
+Dialogue: 0,0:37:59.21,0:38:02.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}大商都没有了 还有什么大王
+Dialogue: 0,0:38:04.71,0:38:06.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}请父王传位给我
+Dialogue: 0,0:38:06.71,0:38:08.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我愿代父王自焚献祭
+Dialogue: 0,0:38:14.34,0:38:15.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}何为王者
+Dialogue: 0,0:38:16.84,0:38:18.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}天下有罪
+Dialogue: 0,0:38:18.67,0:38:20.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}在王一人
+Dialogue: 0,0:38:22.80,0:38:25.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我将效法成汤先祖
+Dialogue: 0,0:38:26.50,0:38:29.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}在朝歌建造一座祭天台
+Dialogue: 0,0:38:30.38,0:38:31.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}台成之日
+Dialogue: 0,0:38:32.46,0:38:35.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}本王将自焚祭天
+Dialogue: 0,0:38:35.09,0:38:37.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}为大商请命
+Dialogue: 0,0:38:40.38,0:38:43.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}幸哉大商
+Dialogue: 0,0:38:44.05,0:38:46.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}跪
+Dialogue: 0,0:38:47.71,0:38:49.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}幸哉大商 幸哉大商
+Dialogue: 0,0:38:49.96,0:38:51.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}幸哉大商 幸哉大商
+Dialogue: 0,0:38:52.00,0:38:53.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}幸哉大商 幸哉大商
+Dialogue: 0,0:38:53.92,0:38:56.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}拜
+Dialogue: 0,0:39:11.55,0:39:13.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}小人在鹿台外候了半个时辰
+Dialogue: 0,0:39:14.00,0:39:15.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}大王
+Dialogue: 0,0:39:15.96,0:39:17.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}还是不见
+Dialogue: 0,0:39:22.84,0:39:24.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我去请父王
+Dialogue: 0,0:39:25.92,0:39:27.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}今天你说了不该说的话
+Dialogue: 0,0:39:30.09,0:39:31.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你父亲正猜忌你呢
+Dialogue: 0,0:39:32.42,0:39:34.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我让父王传位给我
+Dialogue: 0,0:39:34.80,0:39:36.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}是真心替他赴死
+Dialogue: 0,0:39:37.13,0:39:38.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}他岂会不知
+Dialogue: 0,0:39:41.71,0:39:43.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你不了解你父亲
+Dialogue: 0,0:39:44.84,0:39:45.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}母亲
+Dialogue: 0,0:39:47.59,0:39:49.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你想多了
+Dialogue: 0,0:39:49.96,0:39:51.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我一定把父王请来
+Dialogue: 0,0:39:52.30,0:39:53.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}全家团聚
+Dialogue: 0,0:40:47.34,0:40:48.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}走开
+Dialogue: 0,0:41:10.42,0:41:11.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}姬发 殷郊
+Dialogue: 0,0:41:12.21,0:41:14.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}有狐妖 快跟我追
+Dialogue: 0,0:41:26.05,0:41:27.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你确定它是跑进来了
+Dialogue: 0,0:41:31.80,0:41:33.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}在那儿 进了摘星阁
+Dialogue: 0,0:41:44.84,0:41:46.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}大王正在休息
+Dialogue: 0,0:41:46.30,0:41:48.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}未蒙传召 不得擅闯
+Dialogue: 0,0:41:49.09,0:41:50.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}父王有危险
+Dialogue: 0,0:41:50.67,0:41:52.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}顾不了那么多了
+Dialogue: 0,0:42:23.96,0:42:25.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}什么人
+Dialogue: 0,0:42:26.63,0:42:27.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}父王
+Dialogue: 0,0:42:28.00,0:42:29.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}是我
+Dialogue: 0,0:42:29.34,0:42:31.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}深更半夜带剑闯入
+Dialogue: 0,0:42:32.63,0:42:34.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}想要我的王位
+Dialogue: 0,0:42:34.46,0:42:36.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你太着急了吧
+Dialogue: 0,0:42:36.30,0:42:37.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}孩儿不敢
+Dialogue: 0,0:42:37.46,0:42:39.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}孩儿是在追一只狐
+Dialogue: 0,0:42:40.46,0:42:41.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}妖
+Dialogue: 0,0:42:41.80,0:42:44.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我们担心大王的安危才贸然闯入
+Dialogue: 0,0:42:44.50,0:42:45.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}请大王恕罪
+Dialogue: 0,0:42:45.63,0:42:46.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}哪里有狐妖
+Dialogue: 0,0:42:47.80,0:42:48.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}她怎么会在这儿
+Dialogue: 0,0:42:50.13,0:42:51.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}出去
+Dialogue: 0,0:42:51.88,0:42:52.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}谢大王
+Dialogue: 0,0:43:01.25,0:43:03.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我当初真应该一剑杀了苏妲己
+Dialogue: 0,0:43:04.75,0:43:06.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}大王为了天下人牺牲自己
+Dialogue: 0,0:43:07.05,0:43:08.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}是个大英雄
+Dialogue: 0,0:43:12.34,0:43:14.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}不要再惹他生气了
+Dialogue: 0,0:43:17.80,0:43:19.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}如果换作是你父亲
+Dialogue: 0,0:43:20.13,0:43:21.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你会怎么做
+Dialogue: 0,0:43:29.71,0:43:31.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我离家八年
+Dialogue: 0,0:43:32.46,0:43:36.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}父亲恐怕也认不出我了吧
+Dialogue: 0,0:43:59.38,0:44:02.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}今年恐怕要歉收了
+Dialogue: 0,0:44:04.88,0:44:07.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}朝歌发生天谴
+Dialogue: 0,0:44:07.71,0:44:12.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}西岐看来也不能幸免呀
+Dialogue: 0,0:44:12.75,0:44:14.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}父亲有先见之明
+Dialogue: 0,0:44:14.80,0:44:18.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}西岐的存粮足够支撑三年
+Dialogue: 0,0:44:19.25,0:44:21.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}三年之后呢
+Dialogue: 0,0:44:32.92,0:44:34.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}一夜之间
+Dialogue: 0,0:44:34.42,0:44:37.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}先王 长王子都死于非命
+Dialogue: 0,0:44:37.13,0:44:38.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}蹊跷之极
+Dialogue: 0,0:44:39.50,0:44:41.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}新王先是仓促登基
+Dialogue: 0,0:44:42.46,0:44:45.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}而后又召四大伯侯入朝觐见
+Dialogue: 0,0:44:45.84,0:44:47.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}用心叵测
+Dialogue: 0,0:44:47.96,0:44:49.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}此去朝歌
+Dialogue: 0,0:44:49.42,0:44:50.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}吉凶未卜
+Dialogue: 0,0:44:51.59,0:44:53.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}请父亲三思
+Dialogue: 0,0:44:53.80,0:44:54.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}主公 主公
+Dialogue: 0,0:44:56.13,0:44:59.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}不遵王命 必起战乱
+Dialogue: 0,0:45:00.30,0:45:04.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}利我而害天下
+Dialogue: 0,0:45:07.21,0:45:10.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}王位虽易主
+Dialogue: 0,0:45:11.21,0:45:14.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}臣节不可废
+Dialogue: 0,0:45:18.80,0:45:22.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}正好去看看姬发
+Dialogue: 0,0:45:23.17,0:45:25.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}八年不见了
+Dialogue: 0,0:45:25.50,0:45:28.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}应该有你这么高了吧
+Dialogue: 0,0:45:30.25,0:45:31.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}也许比我都高了
+Dialogue: 0,0:45:38.55,0:45:41.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我走以后 你就是西岐之主
+Dialogue: 0,0:45:42.50,0:45:44.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}守土有责
+Dialogue: 0,0:45:44.59,0:45:46.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}无论发生什么
+Dialogue: 0,0:45:47.30,0:45:50.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}都不要擅离西岐
+Dialogue: 0,0:45:53.46,0:45:55.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}父亲早日归来
+Dialogue: 0,0:46:23.38,0:46:24.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}排好队 排好队
+Dialogue: 0,0:46:24.50,0:46:25.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}放行 走
+Dialogue: 0,0:46:26.30,0:46:28.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}别挤了 有急事啊
+Dialogue: 0,0:46:28.17,0:46:29.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}来 拦着 快让一下
+Dialogue: 0,0:46:29.50,0:46:30.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}别挤了 让我们过去吧
+Dialogue: 0,0:46:31.21,0:46:32.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}快让我们过去 往后退
+Dialogue: 0,0:46:32.25,0:46:33.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}后面的不许挤 让我们过去
+Dialogue: 0,0:46:33.75,0:46:35.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}把路牌拿出来 没路牌不准进 哪有这样啊
+Dialogue: 0,0:46:36.46,0:46:38.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}还要路牌啊
+Dialogue: 0,0:46:38.59,0:46:39.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}这么麻烦 退后
+Dialogue: 0,0:46:39.75,0:46:42.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}师叔 我用我风火轮带你飞进去 快点
+Dialogue: 0,0:46:42.63,0:46:45.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}用我的五行遁术进城更快
+Dialogue: 0,0:46:45.59,0:46:48.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}下山之时 师尊一再叮嘱
+Dialogue: 0,0:46:48.25,0:46:50.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}不得妄用法术
+Dialogue: 0,0:46:52.25,0:46:54.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}不过人间自有人间的法术 来 排好了
+Dialogue: 0,0:46:56.42,0:46:57.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}看我的
+Dialogue: 0,0:47:00.05,0:47:01.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}快点
+Dialogue: 0,0:47:01.75,0:47:04.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}大人辛苦啊
+Dialogue: 0,0:47:04.84,0:47:05.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你谁啊
+Dialogue: 0,0:47:07.63,0:47:11.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我们乃昆仑修仙之人 远道而来
+Dialogue: 0,0:47:11.92,0:47:14.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}所以我们没有路牌
+Dialogue: 0,0:47:14.63,0:47:16.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}没路牌
+Dialogue: 0,0:47:18.75,0:47:20.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}但是我们有这个
+Dialogue: 0,0:47:26.17,0:47:27.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}拿着
+Dialogue: 0,0:47:29.46,0:47:30.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}路牌拿出来
+Dialogue: 0,0:47:30.75,0:47:32.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}这是什么呀 滚吧
+Dialogue: 0,0:47:33.09,0:47:34.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}仙丹啊
+Dialogue: 0,0:47:35.67,0:47:37.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}有什么用啊 有什么用
+Dialogue: 0,0:47:37.96,0:47:41.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}排好队啊 此丹乃是采先天清气
+Dialogue: 0,0:47:41.21,0:47:42.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}夺壬癸之精
+Dialogue: 0,0:47:42.96,0:47:44.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}藏天乙之妙
+Dialogue: 0,0:47:44.75,0:47:47.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}按天 地 人
+Dialogue: 0,0:47:47.59,0:47:49.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}三才合为一气
+Dialogue: 0,0:47:50.00,0:47:50.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}闻一闻
+Dialogue: 0,0:47:51.55,0:47:52.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}提神醒脑
+Dialogue: 0,0:47:52.55,0:47:53.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}尝一尝
+Dialogue: 0,0:47:53.88,0:47:54.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}百病全消
+Dialogue: 0,0:47:54.84,0:47:55.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我 好
+Dialogue: 0,0:47:57.38,0:48:00.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}反正这么好的仙丹啊
+Dialogue: 0,0:48:00.80,0:48:03.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你在外边花多少钱可都买不来
+Dialogue: 0,0:48:03.88,0:48:05.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}是个缘分
+Dialogue: 0,0:48:05.42,0:48:06.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}送你了
+Dialogue: 0,0:48:08.96,0:48:12.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}师叔 你这人间法术果然管用
+Dialogue: 0,0:48:12.17,0:48:13.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}来
+Dialogue: 0,0:48:13.71,0:48:16.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}那我得好好地照顾照顾你们 客气啦
+Dialogue: 0,0:48:16.17,0:48:18.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}亲自驾车送你们进城
+Dialogue: 0,0:48:20.05,0:48:22.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}想要消除天谴
+Dialogue: 0,0:48:23.25,0:48:26.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}大王就必须自焚在这祭天台吗
+Dialogue: 0,0:48:34.05,0:48:35.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}也许
+Dialogue: 0,0:48:37.17,0:48:39.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}只有神仙才有办法
+Dialogue: 0,0:48:45.92,0:48:46.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}到了
+Dialogue: 0,0:48:46.84,0:48:47.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}下车
+Dialogue: 0,0:48:48.05,0:48:49.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}后边跟紧了 快点
+Dialogue: 0,0:48:49.38,0:48:50.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}快点 快
+Dialogue: 0,0:48:50.71,0:48:51.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}快点
+Dialogue: 0,0:48:55.55,0:48:56.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}过来
+Dialogue: 0,0:49:08.17,0:49:09.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}走
+Dialogue: 0,0:49:09.59,0:49:10.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}快走
+Dialogue: 0,0:49:15.00,0:49:16.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}师叔
+Dialogue: 0,0:49:23.67,0:49:24.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}快走
+Dialogue: 0,0:49:59.17,0:50:00.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}快点搬
+Dialogue: 0,0:50:02.21,0:50:04.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}师叔 怎么回事儿啊 都给我使劲拉
+Dialogue: 0,0:50:06.17,0:50:07.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}赶紧的
+Dialogue: 0,0:50:07.46,0:50:08.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}别磨磨蹭蹭的
+Dialogue: 0,0:50:09.42,0:50:10.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}看样子
+Dialogue: 0,0:50:11.38,0:50:12.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我们是被卖了呀 快
+Dialogue: 0,0:50:12.55,0:50:13.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}卖了
+Dialogue: 0,0:50:13.46,0:50:14.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}快点 师叔
+Dialogue: 0,0:50:14.84,0:50:16.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}您不是对人间很熟吗
+Dialogue: 0,0:50:18.30,0:50:20.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我这40年没回来了
+Dialogue: 0,0:50:20.25,0:50:22.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}之前人间也不这样啊
+Dialogue: 0,0:50:23.00,0:50:25.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}把他们几个带过去 走 快走
+Dialogue: 0,0:50:26.25,0:50:29.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}大人 我们是给大王来献宝的
+Dialogue: 0,0:50:29.38,0:50:30.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}少废话
+Dialogue: 0,0:50:32.96,0:50:33.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}不是
+Dialogue: 0,0:50:52.55,0:50:53.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}差不多得了
+Dialogue: 0,0:51:02.75,0:51:03.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}坏了
+Dialogue: 0,0:51:11.13,0:51:12.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}快 大家退后
+Dialogue: 0,0:51:13.38,0:51:14.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}退后
+Dialogue: 0,0:51:20.25,0:51:21.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你看
+Dialogue: 0,0:51:23.71,0:51:25.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}掌心雷
+Dialogue: 0,0:51:27.30,0:51:28.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}还不快去救人
+Dialogue: 0,0:51:28.84,0:51:30.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}能用法术吗 废话
+Dialogue: 0,0:51:31.46,0:51:33.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}可憋死我啦
+Dialogue: 0,0:52:17.71,0:52:19.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}原来真的有神仙啊
+Dialogue: 0,0:52:19.75,0:52:21.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}大王有救了
+Dialogue: 0,0:52:25.46,0:52:29.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}东海金鳌岛炼气士申公豹
+Dialogue: 0,0:52:29.30,0:52:32.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}为大王展示法术
+Dialogue: 0,0:52:52.71,0:52:54.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}献丑了
+Dialogue: 0,0:53:00.05,0:53:01.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}有意思
+Dialogue: 0,0:53:01.67,0:53:03.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}这是什么法术
+Dialogue: 0,0:53:03.13,0:53:04.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}回大王
+Dialogue: 0,0:53:04.34,0:53:07.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}此乃断头不死之术
+Dialogue: 0,0:53:07.80,0:53:09.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}若是烈火焚烧呢
+Dialogue: 0,0:53:11.50,0:53:13.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}身首异处都不能死
+Dialogue: 0,0:53:14.13,0:53:17.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}以火烧身又何惧之有啊
+Dialogue: 0,0:53:17.75,0:53:20.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}好 多少时日可以习成
+Dialogue: 0,0:53:20.96,0:53:25.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}小人修炼此术耗去了一千年的光阴
+Dialogue: 0,0:53:25.34,0:53:28.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}不过大王禀赋超群
+Dialogue: 0,0:53:28.84,0:53:31.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}有个500年也就够了
+Dialogue: 0,0:53:33.17,0:53:34.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}500年
+Dialogue: 0,0:53:34.30,0:53:35.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}不错
+Dialogue: 0,0:53:37.05,0:53:38.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}笑话 疼
+Dialogue: 0,0:53:42.21,0:53:43.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}别 不要
+Dialogue: 0,0:53:46.13,0:53:47.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}这儿
+Dialogue: 0,0:53:47.42,0:53:48.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}这儿
+Dialogue: 0,0:53:49.09,0:53:50.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}快点
+Dialogue: 0,0:53:51.46,0:53:57.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}昆仑山道士姜子牙前来献宝
+Dialogue: 0,0:54:05.38,0:54:06.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}什么宝
+Dialogue: 0,0:54:06.88,0:54:08.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我所献之宝
+Dialogue: 0,0:54:09.00,0:54:11.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}名叫封神榜
+Dialogue: 0,0:54:14.59,0:54:16.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}此宝有何用处
+Dialogue: 0,0:54:16.84,0:54:19.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}天下浩劫将至
+Dialogue: 0,0:54:19.55,0:54:23.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我奉师父元始天尊之命特持此宝下山
+Dialogue: 0,0:54:24.59,0:54:27.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}寻找天下共主
+Dialogue: 0,0:54:28.30,0:54:32.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}天下共主开榜封神
+Dialogue: 0,0:54:32.75,0:54:36.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}此榜一开 天谴便会消除
+Dialogue: 0,0:54:36.25,0:54:39.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}可救众生免于灾难
+Dialogue: 0,0:54:41.05,0:54:43.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}这么一个小小的封神榜
+Dialogue: 0,0:54:43.25,0:54:44.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}真能消除天谴
+Dialogue: 0,0:54:44.67,0:54:47.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}岂止能消除天谴
+Dialogue: 0,0:54:54.96,0:54:59.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}封神榜乃是女娲娘娘留下的宝物
+Dialogue: 0,0:54:59.50,0:55:03.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}能吸纳世间所有死者的元气
+Dialogue: 0,0:55:04.50,0:55:08.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}也就是世人所说的魂魄
+Dialogue: 0,0:55:08.88,0:55:12.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}大王一旦打开封神榜
+Dialogue: 0,0:55:12.30,0:55:15.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}这些元气都将归于大王
+Dialogue: 0,0:55:15.84,0:55:19.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}任由大王调遣
+Dialogue: 0,0:55:19.80,0:55:20.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}这么说
+Dialogue: 0,0:55:21.30,0:55:23.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}人死得越多
+Dialogue: 0,0:55:23.17,0:55:24.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}封神榜的法力越强
+Dialogue: 0,0:55:24.96,0:55:27.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}大王英明
+Dialogue: 0,0:55:27.63,0:55:31.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}看来天谴未必是坏事
+Dialogue: 0,0:55:31.13,0:55:33.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}大王高见
+Dialogue: 0,0:55:34.21,0:55:35.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}此人是妖孽
+Dialogue: 0,0:55:35.96,0:55:36.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}来
+Dialogue: 0,0:55:36.92,0:55:38.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}重重有赏
+Dialogue: 0,0:55:38.63,0:55:39.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}且慢
+Dialogue: 0,0:55:40.59,0:55:43.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}这封神榜
+Dialogue: 0,0:55:44.80,0:55:47.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}是真是假
+Dialogue: 0,0:55:49.59,0:55:52.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}还尚未可知啊
+Dialogue: 0,0:55:52.67,0:55:53.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}如何检验真假
+Dialogue: 0,0:55:54.00,0:55:58.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}倘若有刚死之人
+Dialogue: 0,0:55:58.75,0:56:01.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}小人自有办法
+Dialogue: 0,0:56:12.71,0:56:15.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}显魂符
+Dialogue: 0,0:56:49.42,0:56:53.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}大王威武啊
+Dialogue: 0,0:56:53.42,0:56:56.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}可惜大王有所不知
+Dialogue: 0,0:56:57.17,0:57:01.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}要打开此榜还须配合仙家之步法
+Dialogue: 0,0:57:01.71,0:57:03.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我这就演示给您
+Dialogue: 0,0:57:03.50,0:57:04.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}您看仔细
+Dialogue: 0,0:57:23.88,0:57:25.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}这是
+Dialogue: 0,0:57:32.42,0:57:34.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}莫非是
+Dialogue: 0,0:57:35.21,0:57:38.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}步罡踏斗 走
+Dialogue: 0,0:57:39.75,0:57:40.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}道友
+Dialogue: 0,0:57:40.71,0:57:42.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}请留步 快跑啊
+Dialogue: 0,0:57:42.63,0:57:43.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}拦住他们
+Dialogue: 0,0:57:53.63,0:57:55.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}不可伤人性命 好咧
+Dialogue: 0,0:58:23.13,0:58:24.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}轻点
+Dialogue: 0,0:58:37.80,0:58:38.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}师叔
+Dialogue: 0,0:58:53.75,0:58:54.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殷郊 姬发
+Dialogue: 0,0:58:54.80,0:58:56.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}夺回封神榜
+Dialogue: 0,0:59:00.50,0:59:02.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}快 闪
+Dialogue: 0,0:59:05.46,0:59:06.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}快追
+Dialogue: 0,0:59:34.21,0:59:35.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}水遁
+Dialogue: 0,1:00:02.21,1:00:03.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}姬发 你去那边
+Dialogue: 0,1:00:36.46,1:00:38.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}危险 别追了
+Dialogue: 0,1:00:41.34,1:00:42.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}别逃了
+Dialogue: 0,1:00:43.00,1:00:44.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}前面是死路 你
+Dialogue: 0,1:00:44.25,1:00:45.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你要再追
+Dialogue: 0,1:00:45.46,1:00:46.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}再追我跳下去了
+Dialogue: 0,1:00:47.00,1:00:48.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}既然来献封神榜
+Dialogue: 0,1:00:48.75,1:00:49.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}为什么出尔反尔
+Dialogue: 0,1:00:49.96,1:00:52.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你看你 就当我没来过
+Dialogue: 0,1:00:52.09,1:00:53.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}不就没这事了嘛 是不是
+Dialogue: 0,1:00:54.05,1:00:55.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}快回去
+Dialogue: 0,1:00:56.05,1:00:58.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}封神榜是属于天下共主的
+Dialogue: 0,1:00:58.59,1:00:59.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我父王就是
+Dialogue: 0,1:00:59.92,1:01:01.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你凭什么不给
+Dialogue: 0,1:01:01.46,1:01:03.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我本就是要给他的
+Dialogue: 0,1:01:03.38,1:01:05.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}可我不能给啊
+Dialogue: 0,1:01:05.21,1:01:06.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}还想耍诈
+Dialogue: 0,1:01:10.46,1:01:11.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}那我问你
+Dialogue: 0,1:01:11.71,1:01:13.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}何为天下共主
+Dialogue: 0,1:01:14.63,1:01:17.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}随意将一无辜之人斩杀于大殿之上
+Dialogue: 0,1:01:17.84,1:01:21.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}他将如何对待天下百姓之性命
+Dialogue: 0,1:01:21.67,1:01:24.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我父王为了百 天谴将至
+Dialogue: 0,1:01:25.67,1:01:28.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}每天无数人死于非命
+Dialogue: 0,1:01:28.13,1:01:31.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}他竟然说天谴也未必是坏事
+Dialogue: 0,1:01:31.42,1:01:32.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我问你
+Dialogue: 0,1:01:32.71,1:01:34.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}他日你若成王
+Dialogue: 0,1:01:34.34,1:01:36.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你会这么做吗 你闭嘴
+Dialogue: 0,1:01:37.59,1:01:39.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}快把封神榜还给我父王
+Dialogue: 0,1:02:13.34,1:02:16.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}老人家 把封神榜交给我
+Dialogue: 0,1:02:16.75,1:02:18.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}没有它 大王可就活不成了
+Dialogue: 0,1:02:19.71,1:02:21.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}给了他
+Dialogue: 0,1:02:22.05,1:02:24.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}恐怕天下人就活不成了
+Dialogue: 0,1:02:25.34,1:02:26.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你胡说
+Dialogue: 0,1:02:27.21,1:02:28.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}大王是个英雄
+Dialogue: 0,1:02:28.59,1:02:30.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}可是他把你们当傻瓜呀
+Dialogue: 0,1:02:33.46,1:02:36.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}他根本不在乎别人的死活
+Dialogue: 0,1:02:36.13,1:02:38.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}他在乎的只有他自己
+Dialogue: 0,1:02:39.25,1:02:40.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殷郊
+Dialogue: 0,1:02:44.00,1:02:45.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殷郊 他刚刚救了你
+Dialogue: 0,1:02:45.75,1:02:46.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我不在乎
+Dialogue: 0,1:02:47.38,1:02:48.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我要救的是父王
+Dialogue: 0,1:03:03.21,1:03:04.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}师叔
+Dialogue: 0,1:03:09.63,1:03:11.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}不可伤他 不可伤
+Dialogue: 0,1:03:23.63,1:03:24.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我的封神榜呢
+Dialogue: 0,1:03:24.80,1:03:26.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你们放了他
+Dialogue: 0,1:03:30.55,1:03:33.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}姬发 拿着封神榜快跑 使不得 使不得呀
+Dialogue: 0,1:03:34.00,1:03:36.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你扔个试试 不能扔
+Dialogue: 0,1:03:37.63,1:03:39.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}使不得
+Dialogue: 0,1:03:43.21,1:03:44.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}他真扔啊
+Dialogue: 0,1:03:44.67,1:03:46.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}掌心雷
+Dialogue: 0,1:03:52.46,1:03:53.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}师叔还真跳啊
+Dialogue: 0,1:04:10.17,1:04:11.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殷郊
+Dialogue: 0,1:05:12.09,1:05:13.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}师父
+Dialogue: 0,1:05:14.42,1:05:16.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}弟子有大事相报
+Dialogue: 0,1:05:17.00,1:05:18.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}是封神榜
+Dialogue: 0,1:05:18.50,1:05:21.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}弟子看到封神榜了
+Dialogue: 0,1:05:21.63,1:05:25.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你既然看到封神榜
+Dialogue: 0,1:05:25.13,1:05:28.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}为什么不把它带来给我
+Dialogue: 0,1:05:28.55,1:05:30.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}师父恕罪
+Dialogue: 0,1:05:32.17,1:05:33.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}不是弟子无能
+Dialogue: 0,1:05:34.50,1:05:38.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}是那些昆仑妖道人多势众
+Dialogue: 0,1:05:39.05,1:05:40.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}弟子
+Dialogue: 0,1:05:41.21,1:05:43.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}什么昆仑妖道
+Dialogue: 0,1:05:44.38,1:05:46.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}竟敢欺负师兄
+Dialogue: 0,1:05:47.13,1:05:49.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}师父 我们去教训他们
+Dialogue: 0,1:05:54.71,1:05:56.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}这是移魂符
+Dialogue: 0,1:05:58.38,1:05:59.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}师父助你
+Dialogue: 0,1:06:00.71,1:06:02.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}还不快去
+Dialogue: 0,1:06:02.63,1:06:04.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}谢师父
+Dialogue: 0,1:06:34.80,1:06:35.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}师叔
+Dialogue: 0,1:06:36.71,1:06:38.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}师叔 你醒了
+Dialogue: 0,1:06:38.67,1:06:40.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殷寿是天下共主
+Dialogue: 0,1:06:40.71,1:06:43.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}可你又不愿意把封神榜给他
+Dialogue: 0,1:06:43.21,1:06:45.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我们留在人间还有什么意义
+Dialogue: 0,1:06:45.67,1:06:47.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}对 我们这次下山
+Dialogue: 0,1:06:47.50,1:06:48.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}就没遇到什么好人
+Dialogue: 0,1:06:48.88,1:06:51.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}师叔 连你都差点丢了性命
+Dialogue: 0,1:06:52.46,1:06:53.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}不如我们把封神榜送回昆仑
+Dialogue: 0,1:06:54.05,1:06:56.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}让那些凡人自生自灭去吧
+Dialogue: 0,1:06:59.00,1:07:01.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殷郊是太子
+Dialogue: 0,1:07:01.67,1:07:04.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}下一个天下共主就是他啊
+Dialogue: 0,1:07:07.50,1:07:09.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}他和他父亲可不一样啊
+Dialogue: 0,1:07:09.50,1:07:10.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殷郊
+Dialogue: 0,1:07:10.84,1:07:12.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}等他成为天下共主
+Dialogue: 0,1:07:12.55,1:07:14.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}那还要等到什么时候
+Dialogue: 0,1:07:17.96,1:07:19.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}谁说要等了
+Dialogue: 0,1:07:24.42,1:07:27.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}莫非又有妖孽降世啊
+Dialogue: 0,1:07:39.38,1:07:40.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}停
+Dialogue: 0,1:07:58.50,1:08:01.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}荒山野岭 哪儿来的婴儿
+Dialogue: 0,1:08:03.80,1:08:06.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}样貌古怪 一定是个妖孽
+Dialogue: 0,1:08:08.67,1:08:10.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}主公 小心
+Dialogue: 0,1:08:28.13,1:08:29.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}来
+Dialogue: 0,1:08:38.46,1:08:43.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你无父无母 着实可怜啊
+Dialogue: 0,1:08:54.42,1:08:55.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}老人家
+Dialogue: 0,1:08:56.75,1:08:58.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你怀里这个东西可能是个妖孽
+Dialogue: 0,1:09:00.67,1:09:02.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}现在就除了他
+Dialogue: 0,1:09:03.96,1:09:05.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}免得以后变成祸害
+Dialogue: 0,1:09:08.75,1:09:11.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}老人家若是不敢下手 让我们来
+Dialogue: 0,1:09:11.42,1:09:13.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}他只是个孩子
+Dialogue: 0,1:09:15.17,1:09:16.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}即便是妖
+Dialogue: 0,1:09:17.46,1:09:21.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}长大后是善是恶
+Dialogue: 0,1:09:21.42,1:09:24.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}也要看所受教诲如何
+Dialogue: 0,1:09:25.59,1:09:27.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}岂能妄下定论
+Dialogue: 0,1:09:28.05,1:09:30.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}先生所言极是
+Dialogue: 0,1:09:30.71,1:09:31.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}哪吒 杨戬
+Dialogue: 0,1:09:31.67,1:09:32.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}不得造次
+Dialogue: 0,1:09:34.34,1:09:36.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}在下姜子牙
+Dialogue: 0,1:09:36.09,1:09:39.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我们都是昆仑山修道之人
+Dialogue: 0,1:09:40.55,1:09:43.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}在下西岐姬昌
+Dialogue: 0,1:09:45.25,1:09:47.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}西伯侯 久仰久仰
+Dialogue: 0,1:09:54.88,1:09:56.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}这孩子很虚弱
+Dialogue: 0,1:09:56.84,1:09:58.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}为保其性命
+Dialogue: 0,1:09:59.00,1:10:02.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我想不如把他送到昆仑山
+Dialogue: 0,1:10:02.21,1:10:06.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}由我师父元始天尊亲自教诲如何
+Dialogue: 0,1:10:08.09,1:10:11.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}久闻元始天尊大名
+Dialogue: 0,1:10:11.67,1:10:13.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}能拜他门下
+Dialogue: 0,1:10:13.88,1:10:16.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}那是此儿的福分啊
+Dialogue: 0,1:10:18.13,1:10:21.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}那就请西伯侯给孩子取个名字
+Dialogue: 0,1:10:21.55,1:10:23.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}以便你们日后相认
+Dialogue: 0,1:10:25.42,1:10:27.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}天雷震动
+Dialogue: 0,1:10:28.46,1:10:30.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}此儿降生
+Dialogue: 0,1:10:31.34,1:10:34.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}便取名雷震子吧
+Dialogue: 0,1:10:36.21,1:10:37.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}杨戬 哪吒
+Dialogue: 0,1:10:37.71,1:10:40.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}速将雷震子送上昆仑
+Dialogue: 0,1:10:40.17,1:10:41.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}好咧
+Dialogue: 0,1:10:51.38,1:10:55.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}近日此类天谴异象频出啊
+Dialogue: 0,1:10:55.96,1:11:00.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}不知西伯侯是否为此事前往朝歌
+Dialogue: 0,1:11:00.25,1:11:02.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}新王登基
+Dialogue: 0,1:11:02.09,1:11:05.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}东 西 南 北四伯侯觐见拜贺
+Dialogue: 0,1:11:06.42,1:11:08.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}也是君臣之礼
+Dialogue: 0,1:11:08.67,1:11:11.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}那其他三位伯侯也在路上
+Dialogue: 0,1:11:18.05,1:11:21.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你让西伯侯姬昌召集我们四大伯侯
+Dialogue: 0,1:11:21.42,1:11:23.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}就是为了要废黜殷寿
+Dialogue: 0,1:11:23.75,1:11:25.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}另立殷郊为王
+Dialogue: 0,1:11:25.55,1:11:26.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}正是
+Dialogue: 0,1:11:27.21,1:11:28.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殷寿已经许诺
+Dialogue: 0,1:11:28.96,1:11:31.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}他将自焚献祭 消除天谴
+Dialogue: 0,1:11:31.42,1:11:32.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}愚蠢
+Dialogue: 0,1:11:33.21,1:11:34.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你真的相信他会自焚
+Dialogue: 0,1:11:35.84,1:11:37.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}待祭天台修好之后
+Dialogue: 0,1:11:37.80,1:11:40.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殷寿是真是假 自见分晓 你怎么
+Dialogue: 0,1:11:40.42,1:11:42.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}等不得 等不得呀
+Dialogue: 0,1:11:42.96,1:11:45.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}天谴已向四方蔓延
+Dialogue: 0,1:11:46.34,1:11:49.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}北地瘟疫横行
+Dialogue: 0,1:11:50.34,1:11:53.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}东方井水苦不堪饮
+Dialogue: 0,1:11:53.75,1:11:57.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}南疆 婴儿出生便会夭折
+Dialogue: 0,1:11:57.96,1:12:01.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}西岐 有麦无实啊
+Dialogue: 0,1:12:01.92,1:12:05.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}多等一天 就会死更多的人
+Dialogue: 0,1:12:06.09,1:12:08.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}天谴是他们殷家引发的
+Dialogue: 0,1:12:08.50,1:12:10.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}自然应该由殷家解决
+Dialogue: 0,1:12:10.88,1:12:13.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}商王是天下共主
+Dialogue: 0,1:12:13.13,1:12:15.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}天下都是他的 天下
+Dialogue: 0,1:12:15.84,1:12:18.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}非商王之天下
+Dialogue: 0,1:12:18.30,1:12:20.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}乃天下人之天下
+Dialogue: 0,1:12:20.92,1:12:22.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}准啊
+Dialogue: 0,1:12:24.42,1:12:26.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}准啊
+Dialogue: 0,1:12:27.80,1:12:29.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}西伯侯精通八卦
+Dialogue: 0,1:12:30.55,1:12:32.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}从未失算
+Dialogue: 0,1:12:32.84,1:12:34.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}卦上怎么说
+Dialogue: 0,1:12:34.25,1:12:38.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}此卦名为无妄
+Dialogue: 0,1:12:38.38,1:12:40.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}弑君之事
+Dialogue: 0,1:12:40.13,1:12:42.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}本非正道
+Dialogue: 0,1:12:42.75,1:12:44.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}六二之位
+Dialogue: 0,1:12:44.13,1:12:46.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}不耕而获
+Dialogue: 0,1:12:47.42,1:12:49.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}由此观之
+Dialogue: 0,1:12:50.88,1:12:54.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}弑君者并非殷启
+Dialogue: 0,1:12:54.96,1:12:58.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}而是另有其人啊
+Dialogue: 0,1:12:59.25,1:13:00.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}那会是谁呢
+Dialogue: 0,1:13:00.75,1:13:02.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}除了殷寿
+Dialogue: 0,1:13:02.71,1:13:04.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}还能有谁
+Dialogue: 0,1:13:04.21,1:13:07.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}事关重大 岂能信口臆断
+Dialogue: 0,1:13:11.88,1:13:13.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你反还是不反
+Dialogue: 0,1:13:14.05,1:13:15.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}反
+Dialogue: 0,1:13:17.84,1:13:19.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}胜算渺茫
+Dialogue: 0,1:13:24.75,1:13:25.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}姬昌
+Dialogue: 0,1:13:26.34,1:13:27.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你呢
+Dialogue: 0,1:13:27.30,1:13:28.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}别忘了
+Dialogue: 0,1:13:29.88,1:13:34.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我们的儿子还在朝歌做质子呢
+Dialogue: 0,1:13:37.88,1:13:39.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}好啊
+Dialogue: 0,1:13:41.34,1:13:42.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}好
+Dialogue: 0,1:13:42.96,1:13:45.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我这就回南都起兵
+Dialogue: 0,1:13:45.17,1:13:46.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}没有你们
+Dialogue: 0,1:13:46.96,1:13:48.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我一样反
+Dialogue: 0,1:13:49.92,1:13:51.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}站住
+Dialogue: 0,1:13:55.63,1:13:58.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你们竟敢在这儿聚众谋反
+Dialogue: 0,1:13:58.80,1:14:01.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}就他一个人 杀了他
+Dialogue: 0,1:14:02.00,1:14:04.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}万万不可
+Dialogue: 0,1:14:05.92,1:14:08.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}这是我儿子姬发呀
+Dialogue: 0,1:14:11.38,1:14:14.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我是殷商王家侍卫姬发
+Dialogue: 0,1:14:15.05,1:14:18.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殷启弑父乃我亲眼所见
+Dialogue: 0,1:14:19.17,1:14:21.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你居然假借占卜诬陷大王
+Dialogue: 0,1:14:21.50,1:14:23.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}居心何在
+Dialogue: 0,1:14:24.05,1:14:25.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}看见了吧
+Dialogue: 0,1:14:25.30,1:14:27.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}质子当得太久了
+Dialogue: 0,1:14:27.59,1:14:29.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}真把殷寿当亲爹啊
+Dialogue: 0,1:14:30.21,1:14:32.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}这样的儿子要他何用
+Dialogue: 0,1:14:32.67,1:14:33.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}杀了他
+Dialogue: 0,1:14:44.42,1:14:46.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你们一个都别想走
+Dialogue: 0,1:14:51.34,1:14:52.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}姬发 我们可找到你了 兄弟们
+Dialogue: 0,1:14:52.80,1:14:54.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我们是殷商王家侍卫 放下武器
+Dialogue: 0,1:14:55.00,1:14:56.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}都闪开
+Dialogue: 0,1:15:01.17,1:15:03.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}商
+Dialogue: 0,1:15:04.00,1:15:05.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}都说你算卦准
+Dialogue: 0,1:15:06.46,1:15:07.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}姬昌
+Dialogue: 0,1:15:08.55,1:15:10.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你自己是怎么死的
+Dialogue: 0,1:15:11.17,1:15:12.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}算出来了吗
+Dialogue: 0,1:15:14.00,1:15:16.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}禀大王
+Dialogue: 0,1:15:16.96,1:15:18.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}占卜者
+Dialogue: 0,1:15:18.84,1:15:20.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}上能占天
+Dialogue: 0,1:15:21.05,1:15:23.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}下能卜地
+Dialogue: 0,1:15:23.88,1:15:27.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}唯独算不了自己
+Dialogue: 0,1:15:27.80,1:15:29.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}那你在占卜什么
+Dialogue: 0,1:15:30.46,1:15:32.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}卦象所示
+Dialogue: 0,1:15:33.34,1:15:34.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}大王啊
+Dialogue: 0,1:15:35.88,1:15:39.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你将死于血亲之手啊
+Dialogue: 0,1:15:49.05,1:15:50.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}天下人都知道
+Dialogue: 0,1:15:51.34,1:15:53.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}本王为了天下百姓
+Dialogue: 0,1:15:53.50,1:15:55.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}将死于自焚祭天
+Dialogue: 0,1:15:55.42,1:15:56.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}姬昌
+Dialogue: 0,1:15:57.30,1:15:58.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你就是个骗子
+Dialogue: 0,1:16:00.17,1:16:01.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}去
+Dialogue: 0,1:16:01.17,1:16:03.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}站到你们父亲面前
+Dialogue: 0,1:16:11.50,1:16:13.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殷启弑父之时
+Dialogue: 0,1:16:13.67,1:16:15.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你们的儿子都在场
+Dialogue: 0,1:16:16.00,1:16:17.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}亲眼目睹
+Dialogue: 0,1:16:18.63,1:16:20.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}可你们四人
+Dialogue: 0,1:16:20.17,1:16:22.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}不相信眼睛看见的事实
+Dialogue: 0,1:16:22.80,1:16:25.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}却相信耳朵听见的谣言
+Dialogue: 0,1:16:26.21,1:16:27.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你们并不愚蠢
+Dialogue: 0,1:16:28.50,1:16:30.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你们就是存心叛乱
+Dialogue: 0,1:16:35.17,1:16:38.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}看清楚这些谋逆者的相貌
+Dialogue: 0,1:16:39.96,1:16:42.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}他们曾经是你们的父亲
+Dialogue: 0,1:16:43.30,1:16:47.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}如今他们是背叛殷商的罪人
+Dialogue: 0,1:16:47.88,1:16:49.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我的妹妹嫁给你
+Dialogue: 0,1:16:49.67,1:16:51.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}如今贵为王后
+Dialogue: 0,1:16:51.71,1:16:53.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}太子殷郊是我的外甥
+Dialogue: 0,1:16:54.75,1:16:56.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我怎么可能谋反呢
+Dialogue: 0,1:16:58.17,1:16:59.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}苍天为证
+Dialogue: 0,1:16:59.92,1:17:01.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我从无谋逆之心
+Dialogue: 0,1:17:02.55,1:17:03.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殷寿
+Dialogue: 0,1:17:06.09,1:17:07.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你弑父杀兄
+Dialogue: 0,1:17:07.71,1:17:08.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}引发天谴
+Dialogue: 0,1:17:09.05,1:17:10.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你
+Dialogue: 0,1:17:10.67,1:17:13.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}才是天下的罪人
+Dialogue: 0,1:17:16.80,1:17:18.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你们的父亲
+Dialogue: 0,1:17:18.59,1:17:21.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}把最宠爱的儿子留在身边
+Dialogue: 0,1:17:22.71,1:17:24.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}锦衣玉食
+Dialogue: 0,1:17:26.00,1:17:29.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}等着日后继承爵位
+Dialogue: 0,1:17:31.09,1:17:35.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}而把你们丢到千里之外的朝歌
+Dialogue: 0,1:17:35.96,1:17:37.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}不管死活
+Dialogue: 0,1:17:41.05,1:17:42.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}如今
+Dialogue: 0,1:17:43.71,1:17:45.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你们已经长大
+Dialogue: 0,1:17:46.30,1:17:49.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你们是我亲手训练的殷商勇士
+Dialogue: 0,1:17:51.42,1:17:53.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你们是在战场上
+Dialogue: 0,1:17:53.09,1:17:56.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}经历过生死考验的铁血男儿
+Dialogue: 0,1:17:58.25,1:18:00.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}没有人可以再摆布你们
+Dialogue: 0,1:18:02.42,1:18:06.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你们比你们留在家乡的兄弟更加强大
+Dialogue: 0,1:18:06.09,1:18:10.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你们更有资格继承你们父亲的爵位
+Dialogue: 0,1:18:12.75,1:18:16.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}本王今天就给你们一个讨回公道的机会
+Dialogue: 0,1:18:18.63,1:18:20.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}谁能杀了自己的父亲
+Dialogue: 0,1:18:24.59,1:18:26.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}就能取而代之
+Dialogue: 0,1:18:33.67,1:18:35.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}拔剑
+Dialogue: 0,1:18:57.21,1:19:00.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}难道你们忘了冀州城下的苏全孝吗
+Dialogue: 0,1:19:04.00,1:19:07.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}父亲
+Dialogue: 0,1:19:07.17,1:19:08.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你不杀父
+Dialogue: 0,1:19:09.80,1:19:12.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}父有一天必杀你
+Dialogue: 0,1:19:20.09,1:19:21.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}父亲
+Dialogue: 0,1:19:43.09,1:19:44.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}好
+Dialogue: 0,1:19:44.34,1:19:45.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}崇应彪
+Dialogue: 0,1:19:45.59,1:19:47.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你现在就是北伯侯
+Dialogue: 0,1:19:54.71,1:19:55.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}笨蛋
+Dialogue: 0,1:19:58.59,1:20:00.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}动手啊
+Dialogue: 0,1:20:04.34,1:20:05.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}不
+Dialogue: 0,1:20:05.55,1:20:06.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}不要 不
+Dialogue: 0,1:20:08.55,1:20:10.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}儿啊
+Dialogue: 0,1:20:12.50,1:20:13.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我的儿啊
+Dialogue: 0,1:20:32.55,1:20:35.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你要活下去
+Dialogue: 0,1:20:37.38,1:20:38.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}姜文焕
+Dialogue: 0,1:20:39.13,1:20:40.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你现在是东伯侯
+Dialogue: 0,1:20:41.71,1:20:42.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}父亲
+Dialogue: 0,1:21:02.67,1:21:05.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}姬发 为何还不动手
+Dialogue: 0,1:21:11.38,1:21:13.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你要为你父亲求情
+Dialogue: 0,1:21:15.80,1:21:16.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}不
+Dialogue: 0,1:21:17.55,1:21:19.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}姬昌之罪
+Dialogue: 0,1:21:19.09,1:21:20.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}虽杀不足以解恨
+Dialogue: 0,1:21:20.71,1:21:22.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}此次四大伯侯密谋叛乱
+Dialogue: 0,1:21:23.88,1:21:25.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}全因姬昌捏造卦象
+Dialogue: 0,1:21:25.71,1:21:27.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}姬昌乃是首犯
+Dialogue: 0,1:21:27.63,1:21:29.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}罪大恶极
+Dialogue: 0,1:21:29.17,1:21:30.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}杀了他
+Dialogue: 0,1:21:30.55,1:21:32.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}反而替他掩盖了罪恶
+Dialogue: 0,1:21:32.55,1:21:34.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}使天下人不明真相
+Dialogue: 0,1:21:38.05,1:21:40.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}必须让他公开谢罪啊
+Dialogue: 0,1:21:41.63,1:21:43.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}让天下人都知道
+Dialogue: 0,1:21:43.96,1:21:46.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}四大伯侯谋反未遂
+Dialogue: 0,1:21:47.00,1:21:49.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}是大王当机立断
+Dialogue: 0,1:21:49.50,1:21:51.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}拯救了殷商
+Dialogue: 0,1:21:57.92,1:22:00.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你没能把封神榜带回来给我
+Dialogue: 0,1:22:00.80,1:22:01.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}有罪
+Dialogue: 0,1:22:02.96,1:22:05.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你为殷商捕获了四大叛贼
+Dialogue: 0,1:22:05.84,1:22:06.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}有功
+Dialogue: 0,1:22:08.34,1:22:09.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}来人
+Dialogue: 0,1:22:12.92,1:22:15.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}把姬昌押入地牢
+Dialogue: 0,1:22:48.38,1:22:49.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}父亲
+Dialogue: 0,1:22:53.34,1:22:54.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}父亲
+Dialogue: 0,1:23:11.84,1:23:13.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}这只玉环
+Dialogue: 0,1:23:15.50,1:23:20.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}是你来朝歌做质子的时候
+Dialogue: 0,1:23:20.34,1:23:22.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我戴在你身上的
+Dialogue: 0,1:23:23.17,1:23:26.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你还记得它的寓意吗
+Dialogue: 0,1:23:27.38,1:23:28.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}大王答应过我
+Dialogue: 0,1:23:28.75,1:23:29.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}只要您肯认错
+Dialogue: 0,1:23:30.00,1:23:31.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}就放您回西岐
+Dialogue: 0,1:23:31.96,1:23:33.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}环
+Dialogue: 0,1:23:34.50,1:23:37.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}就是返还家乡
+Dialogue: 0,1:23:39.59,1:23:41.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}快到芒种了
+Dialogue: 0,1:23:42.09,1:23:44.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}西岐 明明是您捏造卦象
+Dialogue: 0,1:23:44.55,1:23:45.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}煽动叛乱
+Dialogue: 0,1:23:46.88,1:23:48.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}为何不肯认错
+Dialogue: 0,1:23:53.21,1:23:54.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我错了
+Dialogue: 0,1:23:57.38,1:23:58.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我不该
+Dialogue: 0,1:23:59.96,1:24:05.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}把你送到殷寿这样的恶人身边
+Dialogue: 0,1:24:06.38,1:24:08.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你凭什么说大王是恶人
+Dialogue: 0,1:24:09.92,1:24:11.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我亲眼看见
+Dialogue: 0,1:24:11.63,1:24:13.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}他为国征战 出生入死
+Dialogue: 0,1:24:13.96,1:24:15.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我亲耳听见
+Dialogue: 0,1:24:15.38,1:24:17.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}他为了平息天谴
+Dialogue: 0,1:24:17.50,1:24:19.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}甘愿自焚献祭
+Dialogue: 0,1:24:20.75,1:24:21.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你呢
+Dialogue: 0,1:24:22.38,1:24:23.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你人在西岐
+Dialogue: 0,1:24:24.17,1:24:26.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}什么都不了解
+Dialogue: 0,1:24:26.09,1:24:29.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}只凭几根草棍就断言别人的善恶
+Dialogue: 0,1:24:30.50,1:24:32.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}岂不可笑
+Dialogue: 0,1:24:36.46,1:24:38.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}孩子
+Dialogue: 0,1:24:39.13,1:24:41.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你能看见的
+Dialogue: 0,1:24:42.09,1:24:47.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}也许只是殷寿想让你看见的
+Dialogue: 0,1:24:48.63,1:24:50.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你相信的
+Dialogue: 0,1:24:51.05,1:24:55.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}也只是殷寿希望你相信的
+Dialogue: 0,1:25:00.88,1:25:02.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}父亲
+Dialogue: 0,1:25:07.34,1:25:11.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}如果你真的相信这些
+Dialogue: 0,1:25:13.38,1:25:17.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你昨天在大殿上就会杀了我
+Dialogue: 0,1:25:23.55,1:25:25.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我是您的儿子
+Dialogue: 0,1:25:26.25,1:25:27.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我怎么能杀您呢
+Dialogue: 0,1:25:34.50,1:25:36.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}记住
+Dialogue: 0,1:25:37.13,1:25:40.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你是谁的儿子不重要
+Dialogue: 0,1:25:42.05,1:25:46.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你是谁才重要
+Dialogue: 0,1:26:07.96,1:26:10.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}这么美的身体
+Dialogue: 0,1:26:12.30,1:26:13.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}杀了
+Dialogue: 0,1:26:14.46,1:26:15.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}岂不可惜
+Dialogue: 0,1:26:19.09,1:26:20.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}一切由你开始
+Dialogue: 0,1:26:21.84,1:26:23.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}也该由你结束
+Dialogue: 0,1:26:28.50,1:26:29.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}看来
+Dialogue: 0,1:26:31.00,1:26:33.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我唤醒了一头野兽
+Dialogue: 0,1:26:41.38,1:26:42.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}留着我
+Dialogue: 0,1:26:44.75,1:26:46.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我能让大王
+Dialogue: 0,1:26:48.34,1:26:53.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}和我共享长生
+Dialogue: 0,1:26:58.75,1:27:00.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}请大王赐死臣妾
+Dialogue: 0,1:27:03.96,1:27:05.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你有何罪
+Dialogue: 0,1:27:06.63,1:27:10.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}反贼东伯侯姜桓楚已被大王处死
+Dialogue: 0,1:27:10.92,1:27:13.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我是他的妹妹 理当连坐
+Dialogue: 0,1:27:14.34,1:27:16.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你在为他喊冤
+Dialogue: 0,1:27:18.96,1:27:21.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}四大伯侯皆是忠臣
+Dialogue: 0,1:27:21.92,1:27:23.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}大王轻易杀之
+Dialogue: 0,1:27:24.00,1:27:26.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}有失君臣大义
+Dialogue: 0,1:27:26.80,1:27:29.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}伯侯之子本为孝子
+Dialogue: 0,1:27:29.92,1:27:31.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}大王逼其弑父
+Dialogue: 0,1:27:31.46,1:27:33.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}败坏天地人伦
+Dialogue: 0,1:27:35.00,1:27:36.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}大王所杀
+Dialogue: 0,1:27:36.30,1:27:38.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}并非四大伯侯
+Dialogue: 0,1:27:38.50,1:27:40.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}大王杀的是天下民心
+Dialogue: 0,1:27:40.17,1:27:42.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}杀的是殷商500年的基业
+Dialogue: 0,1:27:44.38,1:27:45.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}在国
+Dialogue: 0,1:27:46.55,1:27:47.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我为王后
+Dialogue: 0,1:27:48.55,1:27:51.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}王有过失 不得不谏
+Dialogue: 0,1:27:51.09,1:27:53.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}在家 我为正妻
+Dialogue: 0,1:27:53.42,1:27:56.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}夫有罪责 不敢不言
+Dialogue: 0,1:27:56.71,1:27:58.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}臣妾愿以死明志
+Dialogue: 0,1:27:58.80,1:28:00.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}换大王迷途知返
+Dialogue: 0,1:28:00.80,1:28:03.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}人死不能复生
+Dialogue: 0,1:28:05.13,1:28:08.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}何必再搭上你自己的性命
+Dialogue: 0,1:28:14.13,1:28:16.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}这么美好的身体
+Dialogue: 0,1:28:17.13,1:28:18.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}得之多么地不易
+Dialogue: 0,1:28:22.21,1:28:24.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}姐姐贵为王后
+Dialogue: 0,1:28:26.00,1:28:29.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}更应享尽人间至乐
+Dialogue: 0,1:28:38.92,1:28:41.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}何不与我们同修
+Dialogue: 0,1:28:42.25,1:28:44.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}永享极乐
+Dialogue: 0,1:29:48.96,1:29:51.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}难怪大王这么喜欢你
+Dialogue: 0,1:29:54.30,1:29:56.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}连我见了你
+Dialogue: 0,1:29:57.38,1:29:59.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}也难免心生爱怜
+Dialogue: 0,1:30:07.00,1:30:09.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}想不到冀州这种苦寒之地
+Dialogue: 0,1:30:11.71,1:30:15.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}竟能生出如你这般娇艳的美人儿
+Dialogue: 0,1:30:26.46,1:30:27.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我若是王
+Dialogue: 0,1:30:28.05,1:30:30.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}也会为你神颠魂倒
+Dialogue: 0,1:30:33.88,1:30:36.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}倾家丧国之物
+Dialogue: 0,1:30:36.50,1:30:37.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}岂可留于世间
+Dialogue: 0,1:31:40.42,1:31:41.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}妖孽
+Dialogue: 0,1:32:44.30,1:32:45.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}父王
+Dialogue: 0,1:32:45.21,1:32:48.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}孽子 你果然是要弑父
+Dialogue: 0,1:32:48.50,1:32:49.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}父王
+Dialogue: 0,1:32:52.38,1:32:54.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}她不是人 是狐妖
+Dialogue: 0,1:32:54.84,1:32:56.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}保护大王
+Dialogue: 0,1:32:59.46,1:33:00.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}来人
+Dialogue: 0,1:33:29.59,1:33:30.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}姬发
+Dialogue: 0,1:33:35.00,1:33:36.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我该怎么办
+Dialogue: 0,1:33:42.05,1:33:43.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}这里直通午门之外
+Dialogue: 0,1:33:44.38,1:33:46.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}去找大司命比干先躲几天
+Dialogue: 0,1:33:50.63,1:33:51.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}放了我
+Dialogue: 0,1:33:52.63,1:33:53.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你怎么办
+Dialogue: 0,1:33:55.46,1:33:56.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}把鬼侯剑给我
+Dialogue: 0,1:34:08.96,1:34:09.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}姬发
+Dialogue: 0,1:34:14.34,1:34:15.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}崇应彪
+Dialogue: 0,1:34:16.09,1:34:18.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}里面黑 我帮你找个火把
+Dialogue: 0,1:34:20.80,1:34:21.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}来人
+Dialogue: 0,1:34:22.50,1:34:23.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}火把
+Dialogue: 0,1:34:31.67,1:34:33.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}缉 姜子牙 杨戬 哪吒 殷郊
+Dialogue: 0,1:34:33.38,1:34:35.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}天谴将至
+Dialogue: 0,1:34:35.17,1:34:36.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}人祸肆虐
+Dialogue: 0,1:34:36.84,1:34:39.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}乃我大商危亡之时
+Dialogue: 0,1:34:39.46,1:34:40.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}欲消天谴
+Dialogue: 0,1:34:41.05,1:34:42.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}先弭人祸
+Dialogue: 0,1:34:42.55,1:34:45.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}乃我大王恤民之意
+Dialogue: 0,1:34:45.30,1:34:48.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}东 西 南 北四大伯侯
+Dialogue: 0,1:34:48.38,1:34:49.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}不感国恩
+Dialogue: 0,1:34:49.75,1:34:51.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}聚众谋反
+Dialogue: 0,1:34:51.55,1:34:53.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}旋即事败
+Dialogue: 0,1:34:53.09,1:34:55.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}或诛或囚
+Dialogue: 0,1:34:55.09,1:34:56.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}王后姜氏 这
+Dialogue: 0,1:34:56.59,1:34:58.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}不谨妇道 让开
+Dialogue: 0,1:34:58.09,1:34:59.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}狂言无状
+Dialogue: 0,1:34:59.46,1:35:02.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}醒而知羞 投水自绝 见到北伯侯还不下跪
+Dialogue: 0,1:35:02.84,1:35:04.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}太子殷郊
+Dialogue: 0,1:35:04.50,1:35:06.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}悖乱纲常
+Dialogue: 0,1:35:06.38,1:35:09.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}夜潜入宫弑父杀君
+Dialogue: 0,1:35:09.55,1:35:11.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}未遂逃窜
+Dialogue: 0,1:35:11.38,1:35:14.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}着全境缉拿
+Dialogue: 0,1:35:24.63,1:35:27.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殷郊的鬼侯剑果然锋利啊
+Dialogue: 0,1:35:38.96,1:35:40.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我盯你好几天了
+Dialogue: 0,1:35:41.46,1:35:43.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你把殷郊藏哪儿了
+Dialogue: 0,1:35:44.88,1:35:46.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}是马棚
+Dialogue: 0,1:35:46.55,1:35:47.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}营房
+Dialogue: 0,1:35:49.05,1:35:51.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}还是粪坑啊
+Dialogue: 0,1:35:55.00,1:35:57.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你这个禽兽 打他
+Dialogue: 0,1:35:57.17,1:35:58.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}打他 上
+Dialogue: 0,1:35:58.25,1:35:59.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}打 走
+Dialogue: 0,1:35:59.21,1:36:00.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}来 杀
+Dialogue: 0,1:36:00.13,1:36:01.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}来啊 打他
+Dialogue: 0,1:36:01.25,1:36:03.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}杀 杀
+Dialogue: 0,1:36:03.42,1:36:04.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}杀 杀
+Dialogue: 0,1:36:05.96,1:36:08.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}杀 用力
+Dialogue: 0,1:36:08.09,1:36:09.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}杀 杀
+Dialogue: 0,1:36:09.17,1:36:10.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}好 好
+Dialogue: 0,1:36:10.34,1:36:11.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}打他 杀
+Dialogue: 0,1:36:11.88,1:36:12.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}杀 别打了
+Dialogue: 0,1:36:12.84,1:36:14.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}打他 打他
+Dialogue: 0,1:36:14.13,1:36:16.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}杀了他 杀了他
+Dialogue: 0,1:36:16.38,1:36:18.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}好 打他 好
+Dialogue: 0,1:36:27.55,1:36:28.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}哥哥
+Dialogue: 0,1:36:33.21,1:36:34.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}这些年一个人在朝歌
+Dialogue: 0,1:36:34.80,1:36:36.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}没少受欺负吧
+Dialogue: 0,1:36:37.30,1:36:38.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}哪儿有
+Dialogue: 0,1:36:38.88,1:36:39.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我
+Dialogue: 0,1:36:39.88,1:36:41.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}都是我欺负别人
+Dialogue: 0,1:36:41.38,1:36:44.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你从小就争强好胜
+Dialogue: 0,1:36:44.34,1:36:46.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}一心想做个大英雄
+Dialogue: 0,1:36:46.80,1:36:49.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}当年殷商来西岐征召质子
+Dialogue: 0,1:36:49.75,1:36:51.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}父亲让咱们兄弟二人比试射箭
+Dialogue: 0,1:36:52.05,1:36:53.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}谁赢谁去
+Dialogue: 0,1:36:54.09,1:36:55.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你别以为我不知道
+Dialogue: 0,1:36:55.80,1:36:58.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你偷偷地在我的箭上做了手脚
+Dialogue: 0,1:36:58.38,1:36:59.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我要是不做手脚
+Dialogue: 0,1:36:59.96,1:37:01.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}能赢得了你吗
+Dialogue: 0,1:37:03.05,1:37:04.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我知道
+Dialogue: 0,1:37:04.50,1:37:06.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你不甘心在西岐过平淡的日子
+Dialogue: 0,1:37:07.59,1:37:09.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}一心想来朝歌做一名战士
+Dialogue: 0,1:37:10.92,1:37:13.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你现在是堂堂的王家侍卫
+Dialogue: 0,1:37:13.80,1:37:15.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}哥哥真替你高兴
+Dialogue: 0,1:37:21.30,1:37:22.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}哥
+Dialogue: 0,1:37:22.75,1:37:24.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你是西岐的世子
+Dialogue: 0,1:37:24.75,1:37:26.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}应该留在西岐
+Dialogue: 0,1:37:33.92,1:37:36.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}门外的几辆马车上装满了奇珍异宝
+Dialogue: 0,1:37:37.05,1:37:38.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你看看
+Dialogue: 0,1:37:39.09,1:37:40.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}够不够救父亲
+Dialogue: 0,1:37:49.92,1:37:51.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}再多珍宝也没用
+Dialogue: 0,1:37:58.46,1:38:00.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我已经劝过父亲了
+Dialogue: 0,1:38:02.17,1:38:04.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}可是他怎么都不肯认罪
+Dialogue: 0,1:38:05.38,1:38:06.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}父亲就是这样
+Dialogue: 0,1:38:09.17,1:38:10.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}违心之事
+Dialogue: 0,1:38:12.34,1:38:13.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}从来不做
+Dialogue: 0,1:38:16.13,1:38:17.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}哥
+Dialogue: 0,1:38:18.71,1:38:20.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你不用担心
+Dialogue: 0,1:38:20.25,1:38:21.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我正在想办法呢
+Dialogue: 0,1:38:24.75,1:38:25.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}傻小子
+Dialogue: 0,1:38:27.50,1:38:29.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}父亲年迈体弱
+Dialogue: 0,1:38:30.50,1:38:31.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}只怕等不起了
+Dialogue: 0,1:38:39.13,1:38:40.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}雪龙驹
+Dialogue: 0,1:38:43.92,1:38:45.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}这么多年没见
+Dialogue: 0,1:38:45.88,1:38:47.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你们俩还认识我啊
+Dialogue: 0,1:38:50.17,1:38:51.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你多年未回西岐
+Dialogue: 0,1:38:52.21,1:38:54.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}恐怕连回去的路都不认识了
+Dialogue: 0,1:38:55.46,1:38:58.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}这两匹雪龙驹是当年父亲送给我们的
+Dialogue: 0,1:38:59.21,1:39:01.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我把它们已经调教好了
+Dialogue: 0,1:39:02.13,1:39:03.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}日行千里
+Dialogue: 0,1:39:03.92,1:39:05.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}最善识途
+Dialogue: 0,1:40:18.50,1:40:21.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你送来的奇珍异宝并不能让我开心
+Dialogue: 0,1:40:23.30,1:40:26.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}但你让我很开心
+Dialogue: 0,1:40:31.92,1:40:33.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}说
+Dialogue: 0,1:40:33.80,1:40:35.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}想要什么
+Dialogue: 0,1:40:35.25,1:40:37.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}本王今天都答应你
+Dialogue: 0,1:40:58.55,1:41:00.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我父亲年迈体弱
+Dialogue: 0,1:41:00.59,1:41:02.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}恐不堪牢狱之苦
+Dialogue: 0,1:41:02.25,1:41:04.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}恳请大王垂怜
+Dialogue: 0,1:41:04.30,1:41:05.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}放他回西岐
+Dialogue: 0,1:41:05.80,1:41:07.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我愿意替父认罪
+Dialogue: 0,1:41:08.09,1:41:09.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}听凭大王处置
+Dialogue: 0,1:41:11.84,1:41:13.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你父亲犯的可是死罪
+Dialogue: 0,1:41:19.55,1:41:21.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我可以替他去死
+Dialogue: 0,1:42:16.46,1:42:18.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}姬发 是我
+Dialogue: 0,1:42:20.80,1:42:21.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你这妖道
+Dialogue: 0,1:42:22.34,1:42:24.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}每次你一出现准没好事
+Dialogue: 0,1:42:25.59,1:42:27.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殷郊在哪儿 赶快带我见他
+Dialogue: 0,1:42:27.92,1:42:29.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你还要害死多少人才肯甘心
+Dialogue: 0,1:42:29.84,1:42:31.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}现在只有我能救他
+Dialogue: 0,1:42:31.09,1:42:32.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}他不能再待在朝歌了
+Dialogue: 0,1:42:35.34,1:42:36.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}上次让你跑了
+Dialogue: 0,1:42:36.80,1:42:39.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}这次你自己送上门来
+Dialogue: 0,1:42:39.21,1:42:41.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}别说这些了 你赶快跟我走
+Dialogue: 0,1:42:43.05,1:42:44.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}离开朝歌
+Dialogue: 0,1:42:44.59,1:42:46.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}昆仑会保护你的
+Dialogue: 0,1:42:46.80,1:42:49.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你是未来的天下共主
+Dialogue: 0,1:42:49.46,1:42:51.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}天下人未来的希望全在
+Dialogue: 0,1:42:54.00,1:42:56.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我父王才是天下共主
+Dialogue: 0,1:42:56.17,1:42:58.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}他才是要打开封神榜 拯救天下的人
+Dialogue: 0,1:42:58.84,1:42:59.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你就
+Dialogue: 0,1:43:00.17,1:43:01.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我告诉过你 老头儿
+Dialogue: 0,1:43:02.21,1:43:03.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}他不会听你的
+Dialogue: 0,1:43:03.84,1:43:05.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你还信他
+Dialogue: 0,1:43:05.38,1:43:07.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}父王只是被狐妖魅惑了
+Dialogue: 0,1:43:08.92,1:43:10.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}福祸无门
+Dialogue: 0,1:43:11.46,1:43:13.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}唯人所召
+Dialogue: 0,1:43:14.30,1:43:16.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}心怀恶念
+Dialogue: 0,1:43:16.84,1:43:19.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}妖孽自至
+Dialogue: 0,1:43:20.30,1:43:21.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你就不想想
+Dialogue: 0,1:43:22.21,1:43:27.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}万一你父亲不是被妖狐所惑呢
+Dialogue: 0,1:43:32.05,1:43:35.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我们若能把妲己引到这里 杀了狐妖
+Dialogue: 0,1:43:35.13,1:43:37.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}自然真相大白
+Dialogue: 0,1:43:45.67,1:43:48.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}西伯侯 你受苦了
+Dialogue: 0,1:43:51.55,1:43:53.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}要杀我了
+Dialogue: 0,1:44:07.55,1:44:08.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我很羡慕你
+Dialogue: 0,1:44:09.80,1:44:11.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}有两个好儿子
+Dialogue: 0,1:44:12.80,1:44:14.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}而我呢
+Dialogue: 0,1:44:14.63,1:44:16.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}只有一个儿子
+Dialogue: 0,1:44:16.88,1:44:18.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}他还要杀死我
+Dialogue: 0,1:44:20.17,1:44:21.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}同样是父亲
+Dialogue: 0,1:44:22.88,1:44:24.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我为什么这么不幸
+Dialogue: 0,1:44:26.63,1:44:29.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你怎样对自己的父亲
+Dialogue: 0,1:44:30.71,1:44:35.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}便怨不得你的儿子同样对你
+Dialogue: 0,1:44:36.38,1:44:37.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}可你知道
+Dialogue: 0,1:44:38.25,1:44:40.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我父亲又是怎样对我的
+Dialogue: 0,1:44:54.55,1:44:56.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你是我钦佩的人
+Dialogue: 0,1:44:57.50,1:44:59.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我该何去何从
+Dialogue: 0,1:44:59.80,1:45:01.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}愿听老伯侯教诲
+Dialogue: 0,1:45:04.38,1:45:07.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你如果信守诺言
+Dialogue: 0,1:45:07.84,1:45:09.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}自焚献祭
+Dialogue: 0,1:45:10.17,1:45:11.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你的罪孽
+Dialogue: 0,1:45:12.63,1:45:14.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}便能够洗清
+Dialogue: 0,1:45:16.09,1:45:21.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你仍无愧于成汤子孙
+Dialogue: 0,1:45:22.71,1:45:24.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}只是
+Dialogue: 0,1:45:24.96,1:45:27.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你能做得到吗
+Dialogue: 0,1:45:39.21,1:45:42.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}伯邑考来朝歌了
+Dialogue: 0,1:45:44.00,1:45:45.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}在哪
+Dialogue: 0,1:45:49.71,1:45:51.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你那么爱你的儿子
+Dialogue: 0,1:45:52.88,1:45:56.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}难道没尝出来他的味道吗
+Dialogue: 0,1:46:03.42,1:46:05.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}虎毒尚不食子
+Dialogue: 0,1:46:07.30,1:46:09.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你连禽兽都不如
+Dialogue: 0,1:46:21.67,1:46:23.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你尝尝吗
+Dialogue: 0,1:46:26.67,1:46:28.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}尝尝吧
+Dialogue: 0,1:46:30.13,1:46:31.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}尝啊
+Dialogue: 0,1:46:34.38,1:46:36.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}尝啊
+Dialogue: 0,1:46:37.55,1:46:40.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你这个禽兽
+Dialogue: 0,1:46:40.63,1:46:42.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你杀了我
+Dialogue: 0,1:46:43.17,1:46:44.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}杀了我
+Dialogue: 0,1:46:44.59,1:46:46.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我答应过伯邑考
+Dialogue: 0,1:46:46.63,1:46:47.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我不杀你
+Dialogue: 0,1:46:48.55,1:46:49.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}还要放了你
+Dialogue: 0,1:46:51.05,1:46:52.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你知道该怎么做吧
+Dialogue: 0,1:47:01.25,1:47:02.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}别忘了
+Dialogue: 0,1:47:03.30,1:47:06.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你还有一个儿子在我手上
+Dialogue: 0,1:47:55.92,1:47:58.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我有罪
+Dialogue: 0,1:47:59.75,1:48:02.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我伪造卦象
+Dialogue: 0,1:48:03.59,1:48:06.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我聚众叛乱
+Dialogue: 0,1:48:07.67,1:48:10.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我煽动谋反
+Dialogue: 0,1:48:12.46,1:48:14.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我是个罪人
+Dialogue: 0,1:48:15.42,1:48:18.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我十恶不赦
+Dialogue: 0,1:48:19.80,1:48:22.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我有罪
+Dialogue: 0,1:48:23.21,1:48:25.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我伪造卦象
+Dialogue: 0,1:48:26.84,1:48:30.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我聚众叛乱
+Dialogue: 0,1:48:30.96,1:48:32.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我
+Dialogue: 0,1:48:33.34,1:48:37.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我煽动谋反
+Dialogue: 0,1:48:40.25,1:48:43.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我伪造卦象
+Dialogue: 0,1:48:44.63,1:48:48.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我聚众叛乱
+Dialogue: 0,1:48:50.17,1:48:51.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我
+Dialogue: 0,1:48:52.75,1:48:55.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}煽动谋反
+Dialogue: 0,1:48:56.30,1:48:58.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我是罪人
+Dialogue: 0,1:49:04.59,1:49:06.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我是罪人
+Dialogue: 0,1:49:08.50,1:49:09.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我
+Dialogue: 0,1:49:10.17,1:49:11.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我伪造卦象
+Dialogue: 0,1:49:24.71,1:49:26.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}不肖孙殷寿
+Dialogue: 0,1:49:26.75,1:49:29.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}携美人苏氏拜见祖宗
+Dialogue: 0,1:49:30.71,1:49:33.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}求祖宗庇佑赐福
+Dialogue: 0,1:49:42.46,1:49:44.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}上前来
+Dialogue: 0,1:49:44.59,1:49:48.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}让祖宗看看清楚
+Dialogue: 0,1:50:04.05,1:50:07.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}人间竟有如此尤物
+Dialogue: 0,1:50:07.92,1:50:12.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}若不是亲眼所见 实难置信
+Dialogue: 0,1:50:13.21,1:50:14.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}把手给我
+Dialogue: 0,1:50:23.92,1:50:25.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}狐妖
+Dialogue: 0,1:50:25.17,1:50:28.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我锁住了你的寸关尺脉
+Dialogue: 0,1:50:28.38,1:50:30.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你受死吧
+Dialogue: 0,1:50:30.38,1:50:32.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}王叔凭什么说她是狐妖
+Dialogue: 0,1:50:33.96,1:50:35.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殷郊
+Dialogue: 0,1:50:40.88,1:50:44.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你这孽子原来一直躲在这
+Dialogue: 0,1:50:50.17,1:50:52.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}狐妖附身在苏妲己体内
+Dialogue: 0,1:50:52.80,1:50:54.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}乃是孩儿亲眼所见
+Dialogue: 0,1:50:55.46,1:50:57.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}孩儿误伤父王
+Dialogue: 0,1:50:57.46,1:50:59.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}实是为了斩杀这个妖孽
+Dialogue: 0,1:51:00.00,1:51:01.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}为母后报仇
+Dialogue: 0,1:51:02.30,1:51:04.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}妲己终日伴我左右
+Dialogue: 0,1:51:04.71,1:51:06.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}她若是狐妖 我怎会不知
+Dialogue: 0,1:51:06.75,1:51:08.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}等我杀了妲己
+Dialogue: 0,1:51:08.17,1:51:10.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}她自然会现出狐妖原形
+Dialogue: 0,1:51:12.17,1:51:13.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}倘若她不是狐妖
+Dialogue: 0,1:51:13.80,1:51:15.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你岂不是滥杀无辜
+Dialogue: 0,1:51:19.50,1:51:22.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}身为殷商大司命
+Dialogue: 0,1:51:22.80,1:51:26.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我有一颗七窍玲珑心
+Dialogue: 0,1:51:26.59,1:51:28.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}只要吃了我的心
+Dialogue: 0,1:51:28.96,1:51:34.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}什么妖孽都会立刻现出原形
+Dialogue: 0,1:51:34.71,1:51:37.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}王叔为此竟愿献出自己的心
+Dialogue: 0,1:51:37.75,1:51:39.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}为了成汤江山
+Dialogue: 0,1:51:39.84,1:51:41.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殷商社稷
+Dialogue: 0,1:51:42.25,1:51:45.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我何惜此心
+Dialogue: 0,1:51:50.71,1:51:55.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}倘若苏妲己现出狐妖原形
+Dialogue: 0,1:51:55.63,1:51:58.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}大王将如何处置
+Dialogue: 0,1:52:01.30,1:52:02.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}听你的
+Dialogue: 0,1:52:03.05,1:52:04.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}诛杀狐妖
+Dialogue: 0,1:52:06.25,1:52:08.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}恕殷郊无罪
+Dialogue: 0,1:52:09.30,1:52:11.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}为四大伯侯昭雪
+Dialogue: 0,1:52:12.71,1:52:15.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}当着列祖列宗的面
+Dialogue: 0,1:52:15.25,1:52:18.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你可能做到
+Dialogue: 0,1:52:23.25,1:52:25.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}列祖列宗为证
+Dialogue: 0,1:52:26.59,1:52:27.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我答应你
+Dialogue: 0,1:52:29.63,1:52:31.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}叔祖 万万不可
+Dialogue: 0,1:52:50.67,1:52:51.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}吃下去
+Dialogue: 0,1:53:32.80,1:53:35.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}狐妖 休伤大王
+Dialogue: 0,1:53:38.50,1:53:39.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}狐妖现形
+Dialogue: 0,1:53:39.92,1:53:42.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}请大王即刻斩杀
+Dialogue: 0,1:53:46.92,1:53:48.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}祖宗在上
+Dialogue: 0,1:53:49.00,1:53:52.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殷寿 你为什么还不动手
+Dialogue: 0,1:53:55.25,1:53:56.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}祖宗
+Dialogue: 0,1:54:01.59,1:54:02.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}祖宗在哪
+Dialogue: 0,1:54:06.92,1:54:09.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}叫一声有回应吗
+Dialogue: 0,1:54:11.13,1:54:13.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你们都说白狐是妖孽
+Dialogue: 0,1:54:15.46,1:54:17.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}它明明是祥瑞
+Dialogue: 0,1:54:20.05,1:54:23.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}只有它知道我要什么
+Dialogue: 0,1:54:24.55,1:54:26.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你要的是
+Dialogue: 0,1:54:26.80,1:54:33.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}成为全天下的王
+Dialogue: 0,1:54:44.71,1:54:48.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}大商要亡了
+Dialogue: 0,1:54:51.30,1:54:52.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}大司命
+Dialogue: 0,1:54:52.21,1:54:57.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}大商真的要亡了
+Dialogue: 0,1:55:03.92,1:55:05.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}叔祖
+Dialogue: 0,1:55:07.09,1:55:08.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}大商
+Dialogue: 0,1:55:11.25,1:55:14.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}大司命 把大司命抬走 快
+Dialogue: 0,1:55:31.38,1:55:32.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}孽子
+Dialogue: 0,1:55:33.92,1:55:35.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}有何可笑
+Dialogue: 0,1:55:38.25,1:55:40.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我以为你是被狐妖魅惑
+Dialogue: 0,1:55:42.30,1:55:45.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}所以一直对你还心存幻想
+Dialogue: 0,1:55:45.17,1:55:47.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}认为你会重新变回那个
+Dialogue: 0,1:55:47.25,1:55:51.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我尊重 景仰 敬爱的父亲
+Dialogue: 0,1:55:51.80,1:55:53.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我太蠢了
+Dialogue: 0,1:55:56.09,1:55:58.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}这一切都是你做的
+Dialogue: 0,1:56:03.75,1:56:05.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我的命是你给我的
+Dialogue: 0,1:56:07.75,1:56:09.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我还给你
+Dialogue: 0,1:56:12.21,1:56:13.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殷郊
+Dialogue: 0,1:56:26.92,1:56:28.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}来人
+Dialogue: 0,1:56:31.88,1:56:33.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}把他拖出去 诺
+Dialogue: 0,1:56:42.34,1:56:44.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}明日午门斩首
+Dialogue: 0,1:56:52.84,1:56:55.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}别以为我不知道你干了些什么
+Dialogue: 0,1:56:55.63,1:56:57.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}姬发不敢
+Dialogue: 0,1:57:10.13,1:57:11.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}这么多质子
+Dialogue: 0,1:57:12.92,1:57:14.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我最欣赏你
+Dialogue: 0,1:57:16.30,1:57:18.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}因为你来到朝歌的第一天
+Dialogue: 0,1:57:18.96,1:57:20.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}就告诉我
+Dialogue: 0,1:57:20.96,1:57:22.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你要做一个大英雄
+Dialogue: 0,1:57:25.00,1:57:27.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我们是同样的人
+Dialogue: 0,1:57:28.38,1:57:29.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}所以
+Dialogue: 0,1:57:30.88,1:57:32.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我给你最后一次机会
+Dialogue: 0,1:57:33.42,1:57:35.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你去杀了姬昌
+Dialogue: 0,1:57:38.59,1:57:39.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}从此
+Dialogue: 0,1:57:41.17,1:57:44.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你就是我的亲生儿子
+Dialogue: 0,1:57:44.88,1:57:47.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}大商的太子
+Dialogue: 0,1:57:48.38,1:57:50.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}不要再让我失望
+Dialogue: 0,1:57:58.46,1:58:00.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我是个罪人
+Dialogue: 0,1:58:01.88,1:58:05.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我十恶不赦
+Dialogue: 0,1:58:07.84,1:58:09.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我有罪
+Dialogue: 0,1:58:28.84,1:58:31.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我以为我将永远不能再见天日
+Dialogue: 0,1:58:32.92,1:58:34.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}是你救了我
+Dialogue: 0,1:58:35.59,1:58:37.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我修炼千年
+Dialogue: 0,1:58:37.92,1:58:40.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}无非想化作人形
+Dialogue: 0,1:58:40.09,1:58:42.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}过得逍遥自在
+Dialogue: 0,1:58:44.38,1:58:48.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}可成汤先祖将我封印在轩辕坟中
+Dialogue: 0,1:58:49.67,1:58:51.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}500年了
+Dialogue: 0,1:58:53.17,1:58:57.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}只有成汤子孙的血能够解开封印
+Dialogue: 0,1:58:58.13,1:59:02.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}是你让我重回人间
+Dialogue: 0,1:59:05.55,1:59:07.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}为了报答你
+Dialogue: 0,1:59:08.09,1:59:10.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我用借尸还魂的法术
+Dialogue: 0,1:59:10.92,1:59:13.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}附体在殷启身上
+Dialogue: 0,1:59:14.00,1:59:16.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}帮你做了最想做的
+Dialogue: 0,1:59:16.80,1:59:19.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}让你得到了最想要的
+Dialogue: 0,1:59:23.42,1:59:25.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我要让你长生不老
+Dialogue: 0,1:59:26.92,1:59:29.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}永世为王
+Dialogue: 0,1:59:45.71,1:59:47.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}臣之侍君
+Dialogue: 0,1:59:48.05,1:59:49.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}如仰日月
+Dialogue: 0,1:59:50.71,1:59:53.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}此社稷之本
+Dialogue: 0,1:59:55.09,1:59:57.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}子之侍父
+Dialogue: 0,1:59:57.17,1:59:59.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}如敬昊天
+Dialogue: 0,1:59:59.50,2:00:02.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}此人伦之根
+Dialogue: 0,2:00:02.96,2:00:06.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}故 自古大逆不道
+Dialogue: 0,2:00:06.50,2:00:09.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}莫过于弑父杀君
+Dialogue: 0,2:00:09.63,2:00:11.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}孽子殷郊
+Dialogue: 0,2:00:11.13,2:00:13.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}灭伦藐法
+Dialogue: 0,2:00:13.17,2:00:14.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}仗剑入宫
+Dialogue: 0,2:00:14.92,2:00:16.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}欲行不义 姬昌啊姬昌
+Dialogue: 0,2:00:16.67,2:00:18.50,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}篡夺王位 我们两个人
+Dialogue: 0,2:00:18.59,2:00:21.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}幸得祖宗庇佑 到底是谁死于血亲之手啊
+Dialogue: 0,2:00:21.38,2:00:24.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殷寿
+Dialogue: 0,2:00:24.46,2:00:28.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我死也不会放过你
+Dialogue: 0,2:00:28.88,2:00:30.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}即刻行刑
+Dialogue: 0,2:00:33.46,2:00:34.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}真杀了
+Dialogue: 0,2:00:42.17,2:00:43.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}哪吒 杨戬
+Dialogue: 0,2:00:43.38,2:00:44.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你们在哪儿啊
+Dialogue: 0,2:00:57.59,2:00:59.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}西岐的兄弟们
+Dialogue: 0,2:00:59.17,2:01:00.05,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}救殷郊
+Dialogue: 0,2:01:00.13,2:01:03.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}杀 杀
+Dialogue: 0,2:01:11.09,2:01:11.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}拦住他们
+Dialogue: 0,2:01:17.38,2:01:19.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你竟然敢骗我
+Dialogue: 0,2:01:21.42,2:01:22.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}放了殷郊
+Dialogue: 0,2:01:22.80,2:01:24.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}不然我就杀了你
+Dialogue: 0,2:01:26.30,2:01:28.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你没这个胆量
+Dialogue: 0,2:01:30.21,2:01:31.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}开斩
+Dialogue: 0,2:01:40.38,2:01:41.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}兄弟
+Dialogue: 0,2:01:41.46,2:01:43.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我送你一程
+Dialogue: 0,2:02:14.63,2:02:17.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你还想杀我
+Dialogue: 0,2:02:18.05,2:02:19.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}别忘了
+Dialogue: 0,2:02:19.46,2:02:22.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你的剑术都是我教的
+Dialogue: 0,2:02:22.34,2:02:23.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}救姬发
+Dialogue: 0,2:02:42.09,2:02:44.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}哪吒 杨戬 我在这儿
+Dialogue: 0,2:02:45.88,2:02:47.09,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}师叔 快走
+Dialogue: 0,2:02:48.05,2:02:49.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}快 跟我们走
+Dialogue: 0,2:02:49.75,2:02:52.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}别管我 快带殷郊走啊
+Dialogue: 0,2:02:52.42,2:02:54.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殷郊都已经成两截 死了
+Dialogue: 0,2:02:54.80,2:02:57.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}少废话 先把他带回昆仑再说
+Dialogue: 0,2:03:15.96,2:03:16.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}水遁
+Dialogue: 0,2:03:24.88,2:03:25.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}都走啦
+Dialogue: 0,2:04:02.59,2:04:04.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}天不杀你
+Dialogue: 0,2:04:04.25,2:04:05.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我杀
+Dialogue: 0,2:04:33.63,2:04:35.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}大王已死
+Dialogue: 0,2:04:36.17,2:04:40.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}现在都听我北伯侯的
+Dialogue: 0,2:05:01.00,2:05:03.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}拦住姬发
+Dialogue: 0,2:05:03.92,2:05:04.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}诺
+Dialogue: 0,2:05:17.13,2:05:19.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你怎么还在朝歌
+Dialogue: 0,2:05:19.09,2:05:20.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}不想活啦
+Dialogue: 0,2:05:31.30,2:05:34.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}移魂符
+Dialogue: 0,2:06:09.42,2:06:11.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殷寿死了
+Dialogue: 0,2:06:11.38,2:06:12.88,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我杀了他
+Dialogue: 0,2:06:15.17,2:06:17.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}他才是引发天谴的罪人
+Dialogue: 0,2:06:17.80,2:06:19.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}拦住他们
+Dialogue: 0,2:06:27.84,2:06:30.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}姜文焕 你要为他报仇的话
+Dialogue: 0,2:06:32.34,2:06:33.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}动手吧
+Dialogue: 0,2:07:01.17,2:07:02.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}收
+Dialogue: 0,2:07:04.46,2:07:05.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}放行
+Dialogue: 0,2:07:11.71,2:07:12.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}走
+Dialogue: 0,2:07:23.59,2:07:24.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}关城门
+Dialogue: 0,2:07:25.05,2:07:26.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}迎敌 杀
+Dialogue: 0,2:07:31.88,2:07:34.92,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}商
+Dialogue: 0,2:07:51.55,2:07:52.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}有人闯关
+Dialogue: 0,2:07:52.67,2:07:53.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}拦住
+Dialogue: 0,2:07:58.59,2:08:00.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}快点拦住他
+Dialogue: 0,2:08:07.09,2:08:08.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}是个逃犯
+Dialogue: 0,2:08:29.09,2:08:30.46,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}进树林
+Dialogue: 0,2:08:32.00,2:08:33.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}快 跟上
+Dialogue: 0,2:08:40.67,2:08:42.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}这 这是什么
+Dialogue: 0,2:09:12.00,2:09:13.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}放箭
+Dialogue: 0,2:09:24.42,2:09:26.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}姬发 你自己跑吧
+Dialogue: 0,2:09:26.46,2:09:28.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}那两个家伙追的是我
+Dialogue: 0,2:09:30.17,2:09:31.96,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我得借你点儿东西
+Dialogue: 0,2:10:59.96,2:11:03.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}道友 请留步
+Dialogue: 0,2:11:11.84,2:11:13.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}怎么是你
+Dialogue: 0,2:12:37.05,2:12:40.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}姜子牙 你跑不了的
+Dialogue: 0,2:13:06.13,2:13:07.59,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你是谁
+Dialogue: 0,2:13:19.09,2:13:20.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}雷震子
+Dialogue: 0,2:13:29.00,2:13:30.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}孩子
+Dialogue: 0,2:13:31.67,2:13:33.55,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我们回家
+Dialogue: 0,2:14:17.84,2:14:21.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}这两匹雪龙驹是当年父亲送给我们的
+Dialogue: 0,2:14:21.75,2:14:23.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我把它们已经调教好了
+Dialogue: 0,2:14:24.67,2:14:26.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}你什么时候想回去
+Dialogue: 0,2:14:26.71,2:14:28.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}只需要对它们说两个字
+Dialogue: 0,2:14:28.80,2:14:30.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}回家
+Dialogue: 0,2:14:30.63,2:14:32.63,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}它们便会带你回西岐
+Dialogue: 0,2:14:42.09,2:14:43.67,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}环
+Dialogue: 0,2:14:47.96,2:14:49.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}父亲
+Dialogue: 0,2:14:50.17,2:14:52.00,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我一定会回到西岐
+Dialogue: 0,2:14:59.55,2:15:00.84,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}环
+Dialogue: 0,2:15:06.42,2:15:08.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}还
+Dialogue: 0,2:15:21.30,2:15:22.38,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}回家
+Dialogue: 0,2:16:03.84,2:16:05.17,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}雪龙驹
+Dialogue: 0,2:16:05.25,2:16:07.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}少主回来啦 少主回来啦
+Dialogue: 0,2:16:23.59,2:16:24.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}父亲
+Dialogue: 0,2:16:50.71,2:16:51.75,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}来
+Dialogue: 0,2:17:02.92,2:17:04.13,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}还
+Dialogue: 0,2:17:13.42,2:17:14.42,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}父亲
+Dialogue: 0,2:17:18.71,2:17:20.21,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}我回来了
+Dialogue: 0,2:24:50.71,2:24:53.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}商
+Dialogue: 0,2:24:53.38,2:24:56.30,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}殷商太师闻仲
+Dialogue: 0,2:24:56.38,2:24:58.71,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}远征北海
+Dialogue: 0,2:24:58.80,2:25:01.25,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}苦战十年
+Dialogue: 0,2:25:02.42,2:25:06.34,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}今凯旋回朝
+Dialogue: 0,2:28:15.05,2:28:17.80,Default,NTP,0000,0000,0000,Effect,{\3c&HFF8000&}敬请期待《封神第二部》
